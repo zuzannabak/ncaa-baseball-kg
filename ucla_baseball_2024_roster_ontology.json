@@ -1,0 +1,910 @@
+{
+  "School": {
+    "schoolId": "ucla",
+    "name": "University of California, Los Angeles",
+    "location": "Los Angeles, CA"
+  },
+  "Conference": {
+    "conferenceId": "pac12",
+    "conferenceName": "Pac-12 Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2024",
+    "seasonYear": 2024,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "ucla_baseball_2024",
+    "teamName": "UCLA Bruins Baseball",
+    "schoolId": "ucla"
+  },
+  "Players": [
+    {
+      "playerId": "ucla_2024_1_cholowsky",
+      "fullName": "Roch Cholowsky",
+      "jerseyNumber": 1,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 2\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Chandler, Ariz.",
+      "lastSchool": "Hamilton HS"
+    },
+    {
+      "playerId": "ucla_2024_2_gourson",
+      "fullName": "Duce Gourson",
+      "jerseyNumber": 2,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 0\"",
+      "weight": "200 lbs",
+      "batsThrows": "L/R",
+      "hometown": "San Diego, Calif.",
+      "lastSchool": "Point Loma HS"
+    },
+    {
+      "playerId": "ucla_2024_3_schrier",
+      "fullName": "Cody Schrier",
+      "jerseyNumber": 3,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 1\"",
+      "weight": "215 lbs",
+      "batsThrows": "R/R",
+      "hometown": "San Clemente, Calif.",
+      "lastSchool": "JSerra Catholic HS"
+    },
+    {
+      "playerId": "ucla_2024_4_call",
+      "fullName": "Phoenix Call",
+      "jerseyNumber": 4,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 0\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Porter Ranch, Calif.",
+      "lastSchool": "Calabasas HS"
+    },
+    {
+      "playerId": "ucla_2024_5_reyes",
+      "fullName": "Daylen Reyes",
+      "jerseyNumber": 5,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "6' 0\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Northridge, Calif.",
+      "lastSchool": "Notre Dame HS"
+    },
+    {
+      "playerId": "ucla_2024_6_gray",
+      "fullName": "Grant Gray",
+      "jerseyNumber": 6,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 3\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Norco, Calif.",
+      "lastSchool": "Norco HS"
+    },
+    {
+      "playerId": "ucla_2024_7_martin",
+      "fullName": "Roman Martin",
+      "jerseyNumber": 7,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 2\"",
+      "weight": "170 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Whittier, Calif.",
+      "lastSchool": "Servite HS"
+    },
+    {
+      "playerId": "ucla_2024_8_delvecchio",
+      "fullName": "Cody Delvecchio",
+      "jerseyNumber": 8,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "5' 10\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "San Marcos, Calif.",
+      "lastSchool": "Mission Hills HS"
+    },
+    {
+      "playerId": "ucla_2024_9_kim",
+      "fullName": "Cameron Kim",
+      "jerseyNumber": 9,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 3\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Jurupa Valley, Calif.",
+      "lastSchool": "Norco HS"
+    },
+    {
+      "playerId": "ucla_2024_10_leibold",
+      "fullName": "Nate Leibold",
+      "jerseyNumber": 10,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Seattle, Wash.",
+      "lastSchool": "Ballard HS"
+    },
+    {
+      "playerId": "ucla_2024_11_brennan",
+      "fullName": "Payton Brennan",
+      "jerseyNumber": 11,
+      "classYear": "R-Fr.",
+      "position": "OF",
+      "height": "6' 3\"",
+      "weight": "200 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Rocklin, Calif.",
+      "lastSchool": "Rocklin HS"
+    },
+    {
+      "playerId": "ucla_2024_14_salgado",
+      "fullName": "AJ Salgado",
+      "jerseyNumber": 14,
+      "classYear": "R-Jr.",
+      "position": "INF/OF",
+      "height": "6' 3\"",
+      "weight": "215 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Glendora, Calif.",
+      "lastSchool": "Cal State LA"
+    },
+    {
+      "playerId": "ucla_2024_15_hocking",
+      "fullName": "Jarrod Hocking",
+      "jerseyNumber": 15,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "5' 9\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Anaheim Hills, Calif.",
+      "lastSchool": "Servite HS"
+    },
+    {
+      "playerId": "ucla_2024_16_oconnor",
+      "fullName": "Jack O'Connor",
+      "jerseyNumber": 16,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Palos Verdes, Calif.",
+      "lastSchool": "Palos Verdes HS"
+    },
+    {
+      "playerId": "ucla_2024_17_holman",
+      "fullName": "Jack Holman",
+      "jerseyNumber": 17,
+      "classYear": "Jr.",
+      "position": "C/1B",
+      "height": "6' 4\"",
+      "weight": "230 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Wrightwood, Calif.",
+      "lastSchool": "Etiwanda HS"
+    },
+    {
+      "playerId": "ucla_2024_18_yates",
+      "fullName": "Carson Yates",
+      "jerseyNumber": 18,
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6' 4\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "San Jose, Calif.",
+      "lastSchool": "Leland HS"
+    },
+    {
+      "playerId": "ucla_2024_19_stump",
+      "fullName": "Landon Stump",
+      "jerseyNumber": 19,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Morgan Hill, Calif.",
+      "lastSchool": "Live Oak HS"
+    },
+    {
+      "playerId": "ucla_2024_20_lee",
+      "fullName": "Justin Lee",
+      "jerseyNumber": 20,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Los Angeles, Calif.",
+      "lastSchool": "Notre Dame HS"
+    },
+    {
+      "playerId": "ucla_2024_21_vaughns",
+      "fullName": "JonJon Vaughns",
+      "jerseyNumber": 21,
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6' 2\"",
+      "weight": "220 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Pasadena, Calif.",
+      "lastSchool": "St. John Bosco HS"
+    },
+    {
+      "playerId": "ucla_2024_24_knight",
+      "fullName": "Malakhi Knight",
+      "jerseyNumber": 24,
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "6' 3\"",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Marysville, Wash.",
+      "lastSchool": "Marysville Getchell HS"
+    },
+    {
+      "playerId": "ucla_2024_25_alger",
+      "fullName": "Josh Alger",
+      "jerseyNumber": 25,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "230 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Roseville, Calif.",
+      "lastSchool": "Roseville HS"
+    },
+    {
+      "playerId": "ucla_2024_27_proctor",
+      "fullName": "Keenan Proctor",
+      "jerseyNumber": 27,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6' 1\"",
+      "weight": "190 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Highlands Ranch, Colo.",
+      "lastSchool": "Valor Christian HS"
+    },
+    {
+      "playerId": "ucla_2024_28_randall",
+      "fullName": "Cal Randall",
+      "jerseyNumber": 28,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Discovery Bay, Calif.",
+      "lastSchool": "De La Salle HS"
+    },
+    {
+      "playerId": "ucla_2024_29_mcilroy",
+      "fullName": "Finn McIlroy",
+      "jerseyNumber": 29,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 6\"",
+      "weight": "220 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Carlsbad, Calif.",
+      "lastSchool": "Carlsbad HS"
+    },
+    {
+      "playerId": "ucla_2024_30_landis",
+      "fullName": "Quintt Landis",
+      "jerseyNumber": 30,
+      "classYear": "Gr.",
+      "position": "C",
+      "height": "5' 10\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Westlake Village, Calif.",
+      "lastSchool": "Pepperdine"
+    },
+    {
+      "playerId": "ucla_2024_31_aldrich",
+      "fullName": "Chris Aldrich",
+      "jerseyNumber": 31,
+      "classYear": "R-Jr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Oak Park, Calif.",
+      "lastSchool": "Notre Dame HS"
+    },
+    {
+      "playerId": "ucla_2024_32_hepp",
+      "fullName": "James Hepp",
+      "jerseyNumber": 32,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 7\"",
+      "weight": "235 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Santa Clarita, Calif.",
+      "lastSchool": "West Ranch HS"
+    },
+    {
+      "playerId": "ucla_2024_33_balsz",
+      "fullName": "Blake Balsz",
+      "jerseyNumber": 33,
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "5' 10\"",
+      "weight": "185 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Rancho Santa Margarita, Calif.",
+      "lastSchool": "Santa Margarita HS"
+    },
+    {
+      "playerId": "ucla_2024_34_rodriguez",
+      "fullName": "Luke Rodriguez",
+      "jerseyNumber": 34,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Shafter, Calif.",
+      "lastSchool": "Frontier HS"
+    },
+    {
+      "playerId": "ucla_2024_35_jewett",
+      "fullName": "Luke Jewett",
+      "jerseyNumber": 35,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Ladera Ranch, Calif.",
+      "lastSchool": "JSerra Catholic HS"
+    },
+    {
+      "playerId": "ucla_2024_36_dwest",
+      "fullName": "Dean West",
+      "jerseyNumber": 36,
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "5' 10\"",
+      "weight": "180 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Woodland Hills, Calif.",
+      "lastSchool": "Notre Dame HS"
+    },
+    {
+      "playerId": "ucla_2024_37_goldberg",
+      "fullName": "Will Goldberg",
+      "jerseyNumber": 37,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 1\"",
+      "weight": "180 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Flossmoor, Ill.",
+      "lastSchool": "Homewood-Flossmoor HS"
+    },
+    {
+      "playerId": "ucla_2024_38_egan",
+      "fullName": "Owen Egan",
+      "jerseyNumber": 38,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 0\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Yucaipa, Calif.",
+      "lastSchool": "Aquinas HS"
+    },
+    {
+      "playerId": "ucla_2024_39_levu",
+      "fullName": "Mulivai Levu",
+      "jerseyNumber": 39,
+      "classYear": "Fr.",
+      "position": "1B",
+      "height": "6' 1\"",
+      "weight": "215 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Huntington Beach, Calif.",
+      "lastSchool": "Ocean View HS"
+    },
+    {
+      "playerId": "ucla_2024_40_dugger",
+      "fullName": "Cashel Dugger",
+      "jerseyNumber": 40,
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "6' 2\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Castle Pines, Colo.",
+      "lastSchool": "Valor Christian HS"
+    },
+    {
+      "playerId": "ucla_2024_43_gobel",
+      "fullName": "Matthew Gobel",
+      "jerseyNumber": 43,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lodi, Calif.",
+      "lastSchool": "Lodi HS"
+    },
+    {
+      "playerId": "ucla_2024_44_bythewood",
+      "fullName": "Toussaint Bythewood",
+      "jerseyNumber": 44,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6' 2\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Encino, Calif.",
+      "lastSchool": "Harvard-Westlake School"
+    },
+    {
+      "playerId": "ucla_2024_45_grothues",
+      "fullName": "Chris Grothues",
+      "jerseyNumber": 45,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 3\"",
+      "weight": "215 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Anaheim Hills, Calif.",
+      "lastSchool": "Servite HS"
+    },
+    {
+      "playerId": "ucla_2024_47_kiakona",
+      "fullName": "Kaena Kiakona",
+      "jerseyNumber": 47,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "180 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Kailua, Hawaii",
+      "lastSchool": "Kamehameha Kapalama HS"
+    },
+    {
+      "playerId": "ucla_2024_48_espinoza",
+      "fullName": "Aidan Espinoza",
+      "jerseyNumber": 48,
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "5' 11\"",
+      "weight": "185 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Huntington Beach, Calif.",
+      "lastSchool": "Huntington Beach HS"
+    },
+    {
+      "playerId": "ucla_2024_50_ruff",
+      "fullName": "Rashad Ruff",
+      "jerseyNumber": 50,
+      "classYear": "Gr.",
+      "position": "RHP",
+      "height": "6' 0\"",
+      "weight": "170 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Moreno Valley, Calif.",
+      "lastSchool": "Coppin State"
+    },
+    {
+      "playerId": "ucla_2024_51_kottinger",
+      "fullName": "Caedon Kottinger",
+      "jerseyNumber": 51,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 0\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Reno, Nev.",
+      "lastSchool": "College of San Mateo"
+    },
+    {
+      "playerId": "ucla_2024_55_barnett",
+      "fullName": "Michael Barnett",
+      "jerseyNumber": 55,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lafayette, Calif.",
+      "lastSchool": "College Park HS"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "ucla_2024_john_savage",
+      "fullName": "John Savage",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "ucla_2024_bryant_ward",
+      "fullName": "Bryant Ward",
+      "role": "Assistant Coach / Recruiting Coordinator"
+    },
+    {
+      "coachId": "ucla_2024_niko_gallego",
+      "fullName": "Niko Gallego",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "ucla_2024_david_berg",
+      "fullName": "David Berg",
+      "role": "Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "ucla_staff_griffin_barnes",
+      "fullName": "Griffin Barnes",
+      "role": "Director of Baseball Operations"
+    },
+    {
+      "staffId": "ucla_staff_carl_stocklin",
+      "fullName": "Carl Stocklin",
+      "role": "Athletic Trainer"
+    },
+    {
+      "staffId": "ucla_staff_sean_swetnam",
+      "fullName": "Sean Swetnam",
+      "role": "Athletic Performance"
+    },
+    {
+      "staffId": "ucla_staff_jake_palmer",
+      "fullName": "Jake Palmer",
+      "role": "Director of Player Development"
+    }
+  ],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "ucla_2024_1_cholowsky",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_2_gourson",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_3_schrier",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_4_call",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_5_reyes",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_6_gray",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_7_martin",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_8_delvecchio",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_9_kim",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucla_2024_10_leibold",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_11_brennan",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_14_salgado",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF/OF"
+      },
+      {
+        "playerId": "ucla_2024_15_hocking",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_16_oconnor",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_17_holman",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C/1B"
+      },
+      {
+        "playerId": "ucla_2024_18_yates",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_19_stump",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_20_lee",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_21_vaughns",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_24_knight",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_25_alger",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_27_proctor",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_28_randall",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_29_mcilroy",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_30_landis",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "ucla_2024_31_aldrich",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_32_hepp",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_33_balsz",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "ucla_2024_34_rodriguez",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_35_jewett",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_36_dwest",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_37_goldberg",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucla_2024_38_egan",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_39_levu",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "1B"
+      },
+      {
+        "playerId": "ucla_2024_40_dugger",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "ucla_2024_43_gobel",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_44_bythewood",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_45_grothues",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucla_2024_47_kiakona",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucla_2024_48_espinoza",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucla_2024_50_ruff",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_51_kottinger",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucla_2024_55_barnett",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "ucla_2024_john_savage",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "ucla_2024_bryant_ward",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach / Recruiting Coordinator"
+      },
+      {
+        "coachId": "ucla_2024_niko_gallego",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "ucla_2024_david_berg",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      }
+    ],
+    "worksFor": [
+      {
+        "staffId": "ucla_staff_griffin_barnes",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "staffId": "ucla_staff_carl_stocklin",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Athletic Trainer"
+      },
+      {
+        "staffId": "ucla_staff_sean_swetnam",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Athletic Performance"
+      },
+      {
+        "staffId": "ucla_staff_jake_palmer",
+        "teamId": "ucla_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Player Development"
+      }
+    ],
+    "memberOf": [
+      {
+        "teamId": "ucla_baseball_2024",
+        "conferenceId": "pac12",
+        "seasonYear": 2024
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "ucla_baseball_2024",
+        "seasonId": "baseball_2024"
+      }
+    ]
+  }
+}

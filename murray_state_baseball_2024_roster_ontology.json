@@ -1,0 +1,787 @@
+{
+  "School": {
+    "schoolId": "murray_state",
+    "name": "Murray State University",
+    "location": "Murray, KY"
+  },
+  "Conference": {
+    "conferenceId": "mvc",
+    "conferenceName": "Missouri Valley Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2024",
+    "seasonYear": 2024,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "murray_state_baseball_2024",
+    "teamName": "Murray State Racers Baseball",
+    "schoolId": "murray_state"
+  },
+  "Players": [
+    {
+      "playerId": "murray_2024_1_hawthorne",
+      "fullName": "Riley Hawthorne",
+      "jerseyNumber": 1,
+      "classYear": "R-Jr.",
+      "position": "INF",
+      "height": "6' 0\"",
+      "weight": "185 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Germantown, Tenn.",
+      "lastSchool": "Houston HS"
+    },
+    {
+      "playerId": "murray_2024_2_shelton",
+      "fullName": "Preston Shelton",
+      "jerseyNumber": 2,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "5' 11\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lewisburg, Tenn.",
+      "lastSchool": "Marshall County HS"
+    },
+    {
+      "playerId": "murray_2024_3_vogel",
+      "fullName": "Drew Vogel",
+      "jerseyNumber": 3,
+      "classYear": "R-Jr.",
+      "position": "INF",
+      "height": "6' 1\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/R",
+      "hometown": "White House, Tenn.",
+      "lastSchool": "White House HS"
+    },
+    {
+      "playerId": "murray_2024_4_bingham",
+      "fullName": "Gunnar Bingham",
+      "jerseyNumber": 4,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6' 0\"",
+      "weight": "165 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Eddyville, Ky.",
+      "lastSchool": "Lyon County HS"
+    },
+    {
+      "playerId": "murray_2024_5_mclendon",
+      "fullName": "Harper McLendon",
+      "jerseyNumber": 5,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "5' 11\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Thomasville, Ga.",
+      "lastSchool": "Brookwood HS"
+    },
+    {
+      "playerId": "murray_2024_6_valero",
+      "fullName": "Bryce Valero",
+      "jerseyNumber": 6,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "245 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Fortson, Ga.",
+      "lastSchool": "Motlow State CC"
+    },
+    {
+      "playerId": "murray_2024_7_rudd",
+      "fullName": "Dalton Rudd",
+      "jerseyNumber": 7,
+      "classYear": "R-Jr.",
+      "position": "OF",
+      "height": "6' 0\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Ellsinore, Mo.",
+      "lastSchool": "East Carter HS"
+    },
+    {
+      "playerId": "murray_2024_8_garner",
+      "fullName": "Carson Garner",
+      "jerseyNumber": 8,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 1\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Franklin, Tenn.",
+      "lastSchool": "Franklin HS"
+    },
+    {
+      "playerId": "murray_2024_10_mercer",
+      "fullName": "Dustin Mercer",
+      "jerseyNumber": 10,
+      "classYear": "R-Jr.",
+      "position": "OF",
+      "height": "6' 2\"",
+      "weight": "205 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Weddington, N.C.",
+      "lastSchool": "Virginia Tech"
+    },
+    {
+      "playerId": "murray_2024_11_estes",
+      "fullName": "Parker Estes",
+      "jerseyNumber": 11,
+      "classYear": "R-Jr.",
+      "position": "INF",
+      "height": "6' 0\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Elizabethtown, Ky.",
+      "lastSchool": "North Hardin HS"
+    },
+    {
+      "playerId": "murray_2024_12_naranjo",
+      "fullName": "Jordyn Naranjo",
+      "jerseyNumber": 12,
+      "classYear": "R-Sr.",
+      "position": "LHP",
+      "height": "6' 1\"",
+      "weight": "225 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Clinton, Ky.",
+      "lastSchool": "Graves County HS"
+    },
+    {
+      "playerId": "murray_2024_13_elmy",
+      "fullName": "Kane Elmy",
+      "jerseyNumber": 13,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Canton, Mich.",
+      "lastSchool": "Plymouth HS"
+    },
+    {
+      "playerId": "murray_2024_14_pogue",
+      "fullName": "Malik Pogue",
+      "jerseyNumber": 14,
+      "classYear": "R-Sr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Martin, Tenn.",
+      "lastSchool": "Itawamba CC"
+    },
+    {
+      "playerId": "murray_2024_15_hogart",
+      "fullName": "Jonathan Hogart",
+      "jerseyNumber": 15,
+      "classYear": "R-Jr.",
+      "position": "OF",
+      "height": "6' 1\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Madisonville, Ky.",
+      "lastSchool": "Madisonville-North Hopkins HS"
+    },
+    {
+      "playerId": "murray_2024_16_bland",
+      "fullName": "Logan Bland",
+      "jerseyNumber": 16,
+      "classYear": "R-Sr.",
+      "position": "INF",
+      "height": "5' 9\"",
+      "weight": "195 lbs",
+      "batsThrows": "S/R",
+      "hometown": "Olive Branch, Miss.",
+      "lastSchool": "Northeast Mississippi CC"
+    },
+    {
+      "playerId": "murray_2024_17_pennington",
+      "fullName": "Jacob Pennington",
+      "jerseyNumber": 17,
+      "classYear": "Gr.",
+      "position": "DH/RHP",
+      "height": "6' 2\"",
+      "weight": "205 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Murfreesboro, Tenn.",
+      "lastSchool": "Oakland HS"
+    },
+    {
+      "playerId": "murray_2024_18_hustedde",
+      "fullName": "Jacob Hustedde",
+      "jerseyNumber": 18,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Breese, Ill.",
+      "lastSchool": "Mater Dei HS"
+    },
+    {
+      "playerId": "murray_2024_19_peca",
+      "fullName": "Joe Peca",
+      "jerseyNumber": 19,
+      "classYear": "R-So.",
+      "position": "LHP",
+      "height": "6' 0\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Cadiz, Ky.",
+      "lastSchool": "Trigg County HS"
+    },
+    {
+      "playerId": "murray_2024_20_lyke",
+      "fullName": "Ethan Lyke",
+      "jerseyNumber": 20,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 0\"",
+      "weight": "185 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Evansville, Ind.",
+      "lastSchool": "Central HS"
+    },
+    {
+      "playerId": "murray_2024_21_holler",
+      "fullName": "Nathan Holler",
+      "jerseyNumber": 21,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 0\"",
+      "weight": "160 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lake Barrington, Ill.",
+      "lastSchool": "Kennesaw State"
+    },
+    {
+      "playerId": "murray_2024_22_krizen",
+      "fullName": "Ethan Krizen",
+      "jerseyNumber": 22,
+      "classYear": "R-Sr.",
+      "position": "C",
+      "height": "5' 10\"",
+      "weight": "175 lbs",
+      "batsThrows": "R/R",
+      "hometown": "North Port, Fla.",
+      "lastSchool": "Tallahassee CC"
+    },
+    {
+      "playerId": "murray_2024_23_roulette",
+      "fullName": "Allen Roulette",
+      "jerseyNumber": 23,
+      "classYear": "Gr.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "210 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Jacksonville, Fla.",
+      "lastSchool": "University of South Alabama"
+    },
+    {
+      "playerId": "murray_2024_24_howell",
+      "fullName": "Taylor Howell",
+      "jerseyNumber": 24,
+      "classYear": "Gr.",
+      "position": "C/1B",
+      "height": "6' 3\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Jackson, Tenn.",
+      "lastSchool": "Memphis"
+    },
+    {
+      "playerId": "murray_2024_25_buckner",
+      "fullName": "Brayden Buckner",
+      "jerseyNumber": 25,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 1\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Tuscumbia, Ala.",
+      "lastSchool": "Deshler HS"
+    },
+    {
+      "playerId": "murray_2024_27_rollins",
+      "fullName": "Danny Rollins",
+      "jerseyNumber": 27,
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "5' 9\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Roselle, Ill.",
+      "lastSchool": "Lake Park HS"
+    },
+    {
+      "playerId": "murray_2024_28_grabowski",
+      "fullName": "Brady Grabowski",
+      "jerseyNumber": 28,
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "6' 2\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Streator, Ill.",
+      "lastSchool": "Streator HS"
+    },
+    {
+      "playerId": "murray_2024_29_stinson",
+      "fullName": "Jayden Stinson",
+      "jerseyNumber": 29,
+      "classYear": "Sr.",
+      "position": "LHP",
+      "height": "6' 1\"",
+      "weight": "205 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Mayfield, Ky.",
+      "lastSchool": "Mayfield HS"
+    },
+    {
+      "playerId": "murray_2024_30_chaudoin",
+      "fullName": "Preston Chaudoin",
+      "jerseyNumber": 30,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "5' 10\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Hopkinsville, Ky.",
+      "lastSchool": "Hopkinsville HS"
+    },
+    {
+      "playerId": "murray_2024_31_mazur",
+      "fullName": "Ben Mazur",
+      "jerseyNumber": 31,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 1\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lafayette, Ind.",
+      "lastSchool": "Lafayette Central Catholic HS"
+    },
+    {
+      "playerId": "murray_2024_33_brown",
+      "fullName": "Cade Brown",
+      "jerseyNumber": 33,
+      "classYear": "Gr.",
+      "position": "RHP/1B",
+      "height": "6' 4\"",
+      "weight": "230 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Cardiff, Calif.",
+      "lastSchool": "Oklahoma"
+    },
+    {
+      "playerId": "murray_2024_34_elsing",
+      "fullName": "Alex Elsing",
+      "jerseyNumber": 34,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Trenton, Ill.",
+      "lastSchool": "Wesclin HS"
+    },
+    {
+      "playerId": "murray_2024_35_mcnabb",
+      "fullName": "Thomas Mcnabb",
+      "jerseyNumber": 35,
+      "classYear": "R-Sr.",
+      "position": "LHP",
+      "height": "6' 1\"",
+      "weight": "165 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Conway, Ark.",
+      "lastSchool": "Crowder College"
+    },
+    {
+      "playerId": "murray_2024_37_tauken",
+      "fullName": "Dan Tauken",
+      "jerseyNumber": 37,
+      "classYear": "R-Jr.",
+      "position": "OF",
+      "height": "6' 3\"",
+      "weight": "215 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Congers, N.Y.",
+      "lastSchool": "Clarkstown North HS"
+    },
+    {
+      "playerId": "murray_2024_38_braundmeier",
+      "fullName": "Reed Braundmeier",
+      "jerseyNumber": 38,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Aviston, Ill.",
+      "lastSchool": "Mater Dei HS"
+    },
+    {
+      "playerId": "murray_2024_40_vernon",
+      "fullName": "Cade Vernon",
+      "jerseyNumber": 40,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Bowling Green, Ky.",
+      "lastSchool": "South Warren HS"
+    },
+    {
+      "playerId": "murray_2024_41_fender",
+      "fullName": "Ryan Fender",
+      "jerseyNumber": 41,
+      "classYear": "Gr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "215 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Crown Point, Ind.",
+      "lastSchool": "Crown Point HS"
+    },
+    {
+      "playerId": "murray_2024_43_stokely",
+      "fullName": "David Stokely",
+      "jerseyNumber": 43,
+      "classYear": "Jr.",
+      "position": "C",
+      "height": "6' 4\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Palm Harbor, Fla.",
+      "lastSchool": "Tarpon Springs HS"
+    },
+    {
+      "playerId": "murray_2024_44_orberson",
+      "fullName": "John Orberson",
+      "jerseyNumber": 44,
+      "classYear": "R-So.",
+      "position": "OF",
+      "height": "6' 1\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Campbellsville, Ky.",
+      "lastSchool": "Campbellsville HS"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "murray_2024_dan_skirka",
+      "fullName": "Dan Skirka",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "murray_2024_steve_adkins",
+      "fullName": "Steve Adkins",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "murray_2024_cooper_goen",
+      "fullName": "Cooper Goen",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "murray_2024_tommy_goodale",
+      "fullName": "Tommy Goodale",
+      "role": "Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "murray_staff_morgan_schumacher",
+      "fullName": "Morgan Schumacher",
+      "role": "Athletic Trainer"
+    }
+  ],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "murray_2024_1_hawthorne",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "murray_2024_2_shelton",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "murray_2024_3_vogel",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "murray_2024_4_bingham",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "murray_2024_5_mclendon",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_6_valero",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_7_rudd",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "murray_2024_8_garner",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "murray_2024_10_mercer",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "murray_2024_11_estes",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "murray_2024_12_naranjo",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "murray_2024_13_elmy",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_14_pogue",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_15_hogart",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "murray_2024_16_bland",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "murray_2024_17_pennington",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "DH/RHP"
+      },
+      {
+        "playerId": "murray_2024_18_hustedde",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_19_peca",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "murray_2024_20_lyke",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "murray_2024_21_holler",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_22_krizen",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "murray_2024_23_roulette",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "murray_2024_24_howell",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C/1B"
+      },
+      {
+        "playerId": "murray_2024_25_buckner",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "murray_2024_27_rollins",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "murray_2024_28_grabowski",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "murray_2024_29_stinson",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "murray_2024_30_chaudoin",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_31_mazur",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_33_brown",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP/1B"
+      },
+      {
+        "playerId": "murray_2024_34_elsing",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_35_mcnabb",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "murray_2024_37_tauken",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "murray_2024_38_braundmeier",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_40_vernon",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_41_fender",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "murray_2024_43_stokely",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "murray_2024_44_orberson",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "murray_2024_dan_skirka",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "murray_2024_steve_adkins",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "murray_2024_cooper_goen",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "murray_2024_tommy_goodale",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      }
+    ],
+    "worksFor": [
+      {
+        "staffId": "murray_staff_morgan_schumacher",
+        "teamId": "murray_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Athletic Trainer"
+      }
+    ],
+    "memberOf": [
+      {
+        "teamId": "murray_state_baseball_2024",
+        "conferenceId": "mvc",
+        "seasonYear": 2024
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "murray_state_baseball_2024",
+        "seasonId": "baseball_2024"
+      }
+    ]
+  }
+}

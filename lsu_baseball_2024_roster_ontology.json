@@ -1,0 +1,854 @@
+{
+  "School": {
+    "schoolId": "lsu",
+    "name": "Louisiana State University",
+    "location": "Baton Rouge, LA"
+  },
+  "Conference": {
+    "conferenceId": "sec",
+    "conferenceName": "Southeastern Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2024",
+    "seasonYear": 2024,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "lsu_baseball_2024",
+    "teamName": "LSU Tigers Baseball",
+    "schoolId": "lsu"
+  },
+  "Players": [
+    {
+      "playerId": "lsu_2024_0_moffett",
+      "fullName": "Aiden Moffett",
+      "jerseyNumber": 0,
+      "classYear": "So.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-3",
+      "weight": "221 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Mount Olive, Miss.",
+      "lastSchool": "Taylorsville HS"
+    },
+    {
+      "playerId": "lsu_2024_1_guidry",
+      "fullName": "Gavin Guidry",
+      "jerseyNumber": 1,
+      "classYear": "So.",
+      "position": "Right-Handed Pitcher / Infield",
+      "height": "6-2",
+      "weight": "178 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lake Charles, La.",
+      "lastSchool": "Barbe HS"
+    },
+    {
+      "playerId": "lsu_2024_4_milam",
+      "fullName": "Steven Milam",
+      "jerseyNumber": 4,
+      "classYear": "Fr.",
+      "position": "Infield",
+      "height": "5-8",
+      "weight": "172 lbs",
+      "batsThrows": "S/R",
+      "hometown": "Las Cruces, N.M.",
+      "lastSchool": "Centennial HS"
+    },
+    {
+      "playerId": "lsu_2024_5_nippolt",
+      "fullName": "Ben Nippolt",
+      "jerseyNumber": 5,
+      "classYear": "Sr.",
+      "position": "Infield",
+      "height": "5-11",
+      "weight": "180 lbs",
+      "batsThrows": "L/R",
+      "hometown": "St. Paul, Minn.",
+      "lastSchool": "VCU"
+    },
+    {
+      "playerId": "lsu_2024_6_loer",
+      "fullName": "Justin Loer",
+      "jerseyNumber": 6,
+      "classYear": "Jr.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-5",
+      "weight": "214 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Lakeville, Minn.",
+      "lastSchool": "Xavier (Ohio)"
+    },
+    {
+      "playerId": "lsu_2024_7_milazzo",
+      "fullName": "Alex Milazzo",
+      "jerseyNumber": 7,
+      "classYear": "Gr.",
+      "position": "Catcher",
+      "height": "5-11",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Zachary, La.",
+      "lastSchool": "Zachary HS"
+    },
+    {
+      "playerId": "lsu_2024_8_travinski",
+      "fullName": "Hayden Travinski",
+      "jerseyNumber": 8,
+      "classYear": "Gr.",
+      "position": "Catcher / First Base",
+      "height": "6-3",
+      "weight": "228 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Shreveport, La.",
+      "lastSchool": "Airline HS"
+    },
+    {
+      "playerId": "lsu_2024_9_bingham",
+      "fullName": "Mac Bingham",
+      "jerseyNumber": 9,
+      "classYear": "Sr.",
+      "position": "Outfield",
+      "height": "5-11",
+      "weight": "182 lbs",
+      "batsThrows": "R/R",
+      "hometown": "San Diego, Calif.",
+      "lastSchool": "Arizona"
+    },
+    {
+      "playerId": "lsu_2024_10_braswell_iii",
+      "fullName": "Michael Braswell III",
+      "jerseyNumber": 10,
+      "classYear": "Jr.",
+      "position": "Infield",
+      "height": "6-2",
+      "weight": "204 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Mableton, Ga.",
+      "lastSchool": "South Carolina"
+    },
+    {
+      "playerId": "lsu_2024_11_pearson",
+      "fullName": "Josh Pearson",
+      "jerseyNumber": 11,
+      "classYear": "Jr.",
+      "position": "Infield",
+      "height": "5-10",
+      "weight": "190 lbs",
+      "batsThrows": "L/R",
+      "hometown": "West Monroe, La.",
+      "lastSchool": "West Monroe HS"
+    },
+    {
+      "playerId": "lsu_2024_13_paul",
+      "fullName": "Mic Paul",
+      "jerseyNumber": 13,
+      "classYear": "So.",
+      "position": "Outfield",
+      "height": "5-10",
+      "weight": "188 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Salt Lake City, Utah",
+      "lastSchool": "Olympus HS"
+    },
+    {
+      "playerId": "lsu_2024_14_bronzini",
+      "fullName": "Nic Bronzini",
+      "jerseyNumber": 14,
+      "classYear": "R-Fr.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-3",
+      "weight": "256 lbs",
+      "batsThrows": "L/L",
+      "hometown": "San Ramon, Calif.",
+      "lastSchool": "California HS"
+    },
+    {
+      "playerId": "lsu_2024_16_neal",
+      "fullName": "Brady Neal",
+      "jerseyNumber": 16,
+      "classYear": "So.",
+      "position": "Catcher",
+      "height": "5-10",
+      "weight": "193 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Tallahassee, Fla.",
+      "lastSchool": "IMG Academy"
+    },
+    {
+      "playerId": "lsu_2024_17_dutton",
+      "fullName": "Samuel Dutton",
+      "jerseyNumber": 17,
+      "classYear": "Jr.",
+      "position": "Right-Handed Pitcher",
+      "height": "5-11",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Southside, Ala.",
+      "lastSchool": "Westbrook Christian HS"
+    },
+    {
+      "playerId": "lsu_2024_18_brown",
+      "fullName": "Jake Brown",
+      "jerseyNumber": 18,
+      "classYear": "Fr.",
+      "position": "Outfield",
+      "height": "6-2",
+      "weight": "194 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Sulphur, La.",
+      "lastSchool": "Sulphur HS"
+    },
+    {
+      "playerId": "lsu_2024_20_kucherak",
+      "fullName": "Ryan Kucherak",
+      "jerseyNumber": 20,
+      "classYear": "Fr.",
+      "position": "Infield",
+      "height": "6-1",
+      "weight": "186 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Chandler, Ariz.",
+      "lastSchool": "Hamilton HS"
+    },
+    {
+      "playerId": "lsu_2024_22_jones",
+      "fullName": "Jared Jones",
+      "jerseyNumber": 22,
+      "classYear": "So.",
+      "position": "First Base / Catcher",
+      "height": "6-4",
+      "weight": "253 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Marietta, Ga.",
+      "lastSchool": "Walton HS"
+    },
+    {
+      "playerId": "lsu_2024_23_jump",
+      "fullName": "Gage Jump",
+      "jerseyNumber": 23,
+      "classYear": "R-So.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-0",
+      "weight": "197 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Aliso, Calif.",
+      "lastSchool": "UCLA"
+    },
+    {
+      "playerId": "lsu_2024_24_roellig",
+      "fullName": "Austen Roellig",
+      "jerseyNumber": 24,
+      "classYear": "Fr.",
+      "position": "Infield",
+      "height": "5-11",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Rancho Cucamonga, Calif.",
+      "lastSchool": "Etiwanda HS"
+    },
+    {
+      "playerId": "lsu_2024_25_woods",
+      "fullName": "Kade Woods",
+      "jerseyNumber": 25,
+      "classYear": "R-So.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-3",
+      "weight": "217 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Monroe, La.",
+      "lastSchool": "Alabama"
+    },
+    {
+      "playerId": "lsu_2024_26_hurd",
+      "fullName": "Thatcher Hurd",
+      "jerseyNumber": 26,
+      "classYear": "Jr.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-4",
+      "weight": "230 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Manhattan Beach, Calif.",
+      "lastSchool": "UCLA"
+    },
+    {
+      "playerId": "lsu_2024_27_noot",
+      "fullName": "Jaden Noot",
+      "jerseyNumber": 27,
+      "classYear": "R-Fr.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-4",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Oak Park, Calif.",
+      "lastSchool": "Sierra Canyon HS"
+    },
+    {
+      "playerId": "lsu_2024_28_kling",
+      "fullName": "Paxton Kling",
+      "jerseyNumber": 28,
+      "classYear": "So.",
+      "position": "Outfield",
+      "height": "6-2",
+      "weight": "203 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Roaring Spring, Pa.",
+      "lastSchool": "Central HS"
+    },
+    {
+      "playerId": "lsu_2024_29_bucknam",
+      "fullName": "Micah Bucknam",
+      "jerseyNumber": 29,
+      "classYear": "So.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-2",
+      "weight": "214 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Abbotsford, B.C., Canada",
+      "lastSchool": "Mennonite Educational Institute"
+    },
+    {
+      "playerId": "lsu_2024_30_ackenhausen",
+      "fullName": "Nate Ackenhausen",
+      "jerseyNumber": 30,
+      "classYear": "Sr.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-2",
+      "weight": "256 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Owasso, Okla.",
+      "lastSchool": "Eastern Oklahoma State CC"
+    },
+    {
+      "playerId": "lsu_2024_32_anderson",
+      "fullName": "Kade Anderson",
+      "jerseyNumber": 32,
+      "classYear": "Fr.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-2",
+      "weight": "179 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Madisonville, La.",
+      "lastSchool": "St. Paul’s HS"
+    },
+    {
+      "playerId": "lsu_2024_33_frey",
+      "fullName": "Ethan Frey",
+      "jerseyNumber": 33,
+      "classYear": "So.",
+      "position": "Outfield / First Base / Catcher",
+      "height": "6-5",
+      "weight": "229 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Rosepine, La.",
+      "lastSchool": "Rosepine HS"
+    },
+    {
+      "playerId": "lsu_2024_34_shores",
+      "fullName": "Chase Shores",
+      "jerseyNumber": 34,
+      "classYear": "R-Fr.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-8",
+      "weight": "245 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Midland, Texas",
+      "lastSchool": "Lee HS"
+    },
+    {
+      "playerId": "lsu_2024_35_herring",
+      "fullName": "Griffin Herring",
+      "jerseyNumber": 35,
+      "classYear": "So.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-2",
+      "weight": "196 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Southlake, Texas",
+      "lastSchool": "Southlake Carroll HS"
+    },
+    {
+      "playerId": "lsu_2024_38_holman",
+      "fullName": "Luke Holman",
+      "jerseyNumber": 38,
+      "classYear": "Jr.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-4",
+      "weight": "201 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Sinking Spring, Pa.",
+      "lastSchool": "Alabama"
+    },
+    {
+      "playerId": "lsu_2024_39_ruddell",
+      "fullName": "Zeb Ruddell",
+      "jerseyNumber": 39,
+      "classYear": "R-Fr.",
+      "position": "Outfield",
+      "height": "6-1",
+      "weight": "187 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Monroe, La.",
+      "lastSchool": "Neville HS"
+    },
+    {
+      "playerId": "lsu_2024_40_ulloa",
+      "fullName": "Fidel Ulloa",
+      "jerseyNumber": 40,
+      "classYear": "Jr.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-2",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lodi, Calif.",
+      "lastSchool": "San Joaquin Delta College"
+    },
+    {
+      "playerId": "lsu_2024_41_primeaux",
+      "fullName": "DJ Primeaux",
+      "jerseyNumber": 41,
+      "classYear": "R-Fr.",
+      "position": "Left-Handed Pitcher",
+      "height": "5-10",
+      "weight": "195 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Baton Rouge, La.",
+      "lastSchool": "Central HS"
+    },
+    {
+      "playerId": "lsu_2024_43_mitchell",
+      "fullName": "Derrick Mitchell",
+      "jerseyNumber": 43,
+      "classYear": "Fr.",
+      "position": "Outfield",
+      "height": "6-3",
+      "weight": "203 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Plano, Texas",
+      "lastSchool": "John Paul II HS"
+    },
+    {
+      "playerId": "lsu_2024_44_larson",
+      "fullName": "Ashton Larson",
+      "jerseyNumber": 44,
+      "classYear": "Fr.",
+      "position": "Outfield",
+      "height": "6-2",
+      "weight": "194 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Overland Park, Kan.",
+      "lastSchool": "St. Thomas Aquinas HS"
+    },
+    {
+      "playerId": "lsu_2024_47_white",
+      "fullName": "Tommy White",
+      "jerseyNumber": 47,
+      "classYear": "Jr.",
+      "position": "Third Base",
+      "height": "6-1",
+      "weight": "228 lbs",
+      "batsThrows": "R/R",
+      "hometown": "St. Pete Beach, Fla.",
+      "lastSchool": "NC State"
+    },
+    {
+      "playerId": "lsu_2024_48_hellmers",
+      "fullName": "Will Hellmers",
+      "jerseyNumber": 48,
+      "classYear": "Sr.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-4",
+      "weight": "213 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Metairie, La.",
+      "lastSchool": "Jesuit HS"
+    },
+    {
+      "playerId": "lsu_2024_49_coleman",
+      "fullName": "Javen Coleman",
+      "jerseyNumber": 49,
+      "classYear": "R-Jr.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-2",
+      "weight": "200 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Richmond, Texas",
+      "lastSchool": "Home Schooled"
+    },
+    {
+      "playerId": "lsu_2024_55_johnson",
+      "fullName": "Cam Johnson",
+      "jerseyNumber": 55,
+      "classYear": "Fr.",
+      "position": "Left-Handed Pitcher",
+      "height": "6-5",
+      "weight": "251 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Upper Marlboro, Md.",
+      "lastSchool": "IMG Academy"
+    },
+    {
+      "playerId": "lsu_2024_99_little",
+      "fullName": "Christian Little",
+      "jerseyNumber": 99,
+      "classYear": "Sr.",
+      "position": "Right-Handed Pitcher",
+      "height": "6-4",
+      "weight": "235 lbs",
+      "batsThrows": "R/R",
+      "hometown": "St. Louis, Mo.",
+      "lastSchool": "Vanderbilt"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "lsu_2024_jay_johnson",
+      "fullName": "Jay Johnson",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "lsu_2024_nate_yeskie",
+      "fullName": "Nate Yeskie",
+      "role": "Pitching Coach"
+    },
+    {
+      "coachId": "lsu_2024_josh_jordan",
+      "fullName": "Josh Jordan",
+      "role": "Assistant Coach/Recruiting Coordinator"
+    },
+    {
+      "coachId": "lsu_2024_marc_wanaka",
+      "fullName": "Marc Wanaka",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "lsu_2024_terry_rooney",
+      "fullName": "Terry Rooney",
+      "role": "Associate Director of Program Development and Recruiting"
+    },
+    {
+      "coachId": "lsu_2024_brent_haring",
+      "fullName": "Brent Haring",
+      "role": "Director of Operations"
+    },
+    {
+      "coachId": "lsu_2024_jamie_tutko",
+      "fullName": "Jamie Tutko",
+      "role": "Director of Player Development/Video and Scouting"
+    },
+    {
+      "coachId": "lsu_2024_drew_finley",
+      "fullName": "Drew Finley",
+      "role": "Student Assistant"
+    }
+  ],
+  "SupportStaff": [],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "lsu_2024_0_moffett",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_1_guidry",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher / Infield"
+      },
+      {
+        "playerId": "lsu_2024_4_milam",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Infield"
+      },
+      {
+        "playerId": "lsu_2024_5_nippolt",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Infield"
+      },
+      {
+        "playerId": "lsu_2024_6_loer",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_7_milazzo",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Catcher"
+      },
+      {
+        "playerId": "lsu_2024_8_travinski",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Catcher / First Base"
+      },
+      {
+        "playerId": "lsu_2024_9_bingham",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield"
+      },
+      {
+        "playerId": "lsu_2024_10_braswell_iii",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Infield"
+      },
+      {
+        "playerId": "lsu_2024_11_pearson",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Infield"
+      },
+      {
+        "playerId": "lsu_2024_13_paul",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield"
+      },
+      {
+        "playerId": "lsu_2024_14_bronzini",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_16_neal",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Catcher"
+      },
+      {
+        "playerId": "lsu_2024_17_dutton",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_18_brown",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield"
+      },
+      {
+        "playerId": "lsu_2024_20_kucherak",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Infield"
+      },
+      {
+        "playerId": "lsu_2024_22_jones",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "First Base / Catcher"
+      },
+      {
+        "playerId": "lsu_2024_23_jump",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_24_roellig",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Infield"
+      },
+      {
+        "playerId": "lsu_2024_25_woods",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_26_hurd",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_27_noot",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_28_kling",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield"
+      },
+      {
+        "playerId": "lsu_2024_29_bucknam",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_30_ackenhausen",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_32_anderson",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_33_frey",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield / First Base / Catcher"
+      },
+      {
+        "playerId": "lsu_2024_34_shores",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_35_herring",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_38_holman",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_39_ruddell",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield"
+      },
+      {
+        "playerId": "lsu_2024_40_ulloa",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_41_primeaux",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_43_mitchell",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield"
+      },
+      {
+        "playerId": "lsu_2024_44_larson",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Outfield"
+      },
+      {
+        "playerId": "lsu_2024_47_white",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Third Base"
+      },
+      {
+        "playerId": "lsu_2024_48_hellmers",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_49_coleman",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_55_johnson",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Left-Handed Pitcher"
+      },
+      {
+        "playerId": "lsu_2024_99_little",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "position": "Right-Handed Pitcher"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "lsu_2024_jay_johnson",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "lsu_2024_nate_yeskie",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Pitching Coach"
+      },
+      {
+        "coachId": "lsu_2024_josh_jordan",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "lsu_2024_marc_wanaka",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "lsu_2024_terry_rooney",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Associate Director of Program Development and Recruiting"
+      },
+      {
+        "coachId": "lsu_2024_brent_haring",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Operations"
+      },
+      {
+        "coachId": "lsu_2024_jamie_tutko",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Player Development/Video and Scouting"
+      },
+      {
+        "coachId": "lsu_2024_drew_finley",
+        "teamId": "lsu_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Assistant"
+      }
+    ],
+    "worksFor": [],
+    "memberOf": [
+      {
+        "teamId": "lsu_baseball_2024",
+        "conferenceId": "sec",
+        "seasonYear": 2024
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "lsu_baseball_2024",
+        "seasonId": "baseball_2024"
+      }
+    ]
+  }
+}

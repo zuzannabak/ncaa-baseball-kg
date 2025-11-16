@@ -1,0 +1,927 @@
+{
+  "School": {
+    "schoolId": "stanford",
+    "name": "Stanford University",
+    "location": "Stanford, CA"
+  },
+  "Conference": {
+    "conferenceId": "pac12",
+    "conferenceName": "Pac-12 Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2024",
+    "seasonYear": 2024,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "stanford_baseball_2024",
+    "teamName": "Stanford Cardinal Baseball",
+    "schoolId": "stanford"
+  },
+  "Players": [
+    {
+      "playerId": "stanford_2024_1_infield/outfield",
+      "fullName": "Infield/Outfield",
+      "jerseyNumber": 1,
+      "classYear": "R/R",
+      "position": "6-3",
+      "height": "195 lbs",
+      "weight": "Graduate Student",
+      "batsThrows": "Seattle, Wash.",
+      "hometown": "Seattle Academy",
+      "lastSchool": "Management Science & Engineering / MS&E (MS)",
+      "highSchool": "",
+      "previousSchool": "Management Science & Engineering / MS&E (MS)",
+      "major": "Owen Cobb Instagram Opens in a new window Owen Cobb Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_2_infield",
+      "fullName": "Infield",
+      "jerseyNumber": 2,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "190 lbs",
+      "weight": "Junior",
+      "batsThrows": "Clovis, Calif.",
+      "hometown": "Buchanan",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Temo Becerra Instagram Opens in a new window Temo Becerra Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_4_outfield",
+      "fullName": "Outfield",
+      "jerseyNumber": 4,
+      "classYear": "R/R",
+      "position": "5-11",
+      "height": "202 lbs",
+      "weight": "Junior",
+      "batsThrows": "Bloomfield Hills, Mich.",
+      "hometown": "Detroit Country Day",
+      "lastSchool": "Management Science & Engineering",
+      "highSchool": "",
+      "previousSchool": "Management Science & Engineering",
+      "major": "Saborn Campbell Instagram Opens in a new window Saborn Campbell Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_5_infield",
+      "fullName": "Infield",
+      "jerseyNumber": 5,
+      "classYear": "R/R",
+      "position": "6-0",
+      "height": "183 lbs",
+      "weight": "Junior",
+      "batsThrows": "San Jose, Calif.",
+      "hometown": "Valley Christian",
+      "lastSchool": "Management Science & Engineering",
+      "highSchool": "",
+      "previousSchool": "Management Science & Engineering",
+      "major": "Trevor Haskins Instagram Opens in a new window Trevor Haskins Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_6_infield",
+      "fullName": "Infield",
+      "jerseyNumber": 6,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "213 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Sydney, Australia",
+      "hometown": "Oakhill College",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Jimmy Nati Instagram Opens in a new window Jimmy Nati Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_10_catcher",
+      "fullName": "Catcher",
+      "jerseyNumber": 10,
+      "classYear": "L/R",
+      "position": "6-2",
+      "height": "216 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Sacramento, Calif.",
+      "hometown": "C.K. McClatchy",
+      "lastSchool": "Undeclared",
+      "highSchool": "",
+      "previousSchool": "Undeclared",
+      "major": "Malcolm Moore Instagram Opens in a new window Malcolm Moore Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_11_catcher/first_base",
+      "fullName": "Catcher/First Base",
+      "jerseyNumber": 11,
+      "classYear": "L/R",
+      "position": "6-3",
+      "height": "200 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Laguna Beach, Calif.",
+      "hometown": "Santa Margarita Catholic",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Luke Lavin Instagram Opens in a new window Luke Lavin Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_12_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 12,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "198 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Rocklin, Calif.",
+      "hometown": "Rocklin",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Toran O'Harran Instagram Opens in a new window Toran O'Harran Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_13_outfield",
+      "fullName": "Outfield",
+      "jerseyNumber": 13,
+      "classYear": "R/R",
+      "position": "5-10",
+      "height": "185 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Paradise Valley, Ariz.",
+      "hometown": "Chaparral",
+      "lastSchool": "Human Biology",
+      "highSchool": "",
+      "previousSchool": "Human Biology",
+      "major": "Ethan Hott Instagram Opens in a new window Ethan Hott Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_14_infield",
+      "fullName": "Infield",
+      "jerseyNumber": 14,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "193 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Medina, Wash.",
+      "hometown": "Lakeside",
+      "lastSchool": "Economics",
+      "highSchool": "",
+      "previousSchool": "Economics",
+      "major": "Sebastian David Instagram Opens in a new window Sebastian David Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_15_outfield",
+      "fullName": "Outfield",
+      "jerseyNumber": 15,
+      "classYear": "R/R",
+      "position": "5-10",
+      "height": "208 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Ooltewah, Tenn.",
+      "hometown": "Baylor School",
+      "lastSchool": "Undeclared",
+      "highSchool": "",
+      "previousSchool": "Undeclared",
+      "major": "Champ Hampton Instagram Opens in a new window Champ Hampton Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_16_first_base",
+      "fullName": "First Base",
+      "jerseyNumber": 16,
+      "classYear": "L/R",
+      "position": "6-6",
+      "height": "235 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Rocklin, Calif.",
+      "hometown": "Rocklin",
+      "lastSchool": "Management Science & Engineering",
+      "highSchool": "UC San Diego",
+      "previousSchool": "Management Science & Engineering",
+      "major": "Brandon Larson Instagram Opens in a new window Brandon Larson Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_18_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 18,
+      "classYear": "R/R",
+      "position": "6-2",
+      "height": "190 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Los Angeles, Calif.",
+      "hometown": "Sierra Canyon",
+      "lastSchool": "Design",
+      "highSchool": "Duke",
+      "previousSchool": "Design",
+      "major": "Kassius Thomas Instagram Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_19_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 19,
+      "classYear": "R/R",
+      "position": "6-4",
+      "height": "205 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Visalia, Calif.",
+      "hometown": "Redwood",
+      "lastSchool": "Undeclared",
+      "highSchool": "",
+      "previousSchool": "Undeclared",
+      "major": "Joey Volchko Instagram Opens in a new window Joey Volchko Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_20_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 20,
+      "classYear": "R/R",
+      "position": "6-4",
+      "height": "205 lbs",
+      "weight": "Graduate Student",
+      "batsThrows": "Atherton, Calif.",
+      "hometown": "Sacred Heart Prep",
+      "lastSchool": "Computer Science / CS (MS)",
+      "highSchool": "",
+      "previousSchool": "Computer Science / CS (MS)",
+      "major": "Nathan Fleischli Instagram Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_21_catcher",
+      "fullName": "Catcher",
+      "jerseyNumber": 21,
+      "classYear": "R/R",
+      "position": "6-0",
+      "height": "200 lbs",
+      "weight": "Junior",
+      "batsThrows": "Thousand Oaks, Calif.",
+      "hometown": "Thousand Oaks",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Charlie Saum Instagram Opens in a new window Charlie Saum Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_22_outfield",
+      "fullName": "Outfield",
+      "jerseyNumber": 22,
+      "classYear": "L/L",
+      "position": "6-1",
+      "height": "197 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Arlington, Texas",
+      "hometown": "Pantego Christian Academy",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Cort MacDonald Instagram Opens in a new window Cort MacDonald Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_23_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 23,
+      "classYear": "R/R",
+      "position": "6-4",
+      "height": "222 lbs",
+      "weight": "Senior",
+      "batsThrows": "Wellington, Fla.",
+      "hometown": "American Heritage School",
+      "lastSchool": "Management Science & Engineering",
+      "highSchool": "",
+      "previousSchool": "Management Science & Engineering",
+      "major": "Jaden Bruno Instagram Opens in a new window Jaden Bruno Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_24_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 24,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "192 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Morgan Hill, Calif.",
+      "hometown": "Live Oak",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Aidan Keenan Instagram Opens in a new window Aidan Keenan Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_25_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 25,
+      "classYear": "R/R",
+      "position": "6-2",
+      "height": "202 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Eureka, Calif.",
+      "hometown": "St. Bernard’s Academy",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Nick Dugan Instagram Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_26_left_handed_pitcher",
+      "fullName": "Left Handed Pitcher",
+      "jerseyNumber": 26,
+      "classYear": "L/L",
+      "position": "6-4",
+      "height": "230 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "San Diego, Calif.",
+      "hometown": "Canyon Crest Academy",
+      "lastSchool": "Psychology",
+      "highSchool": "Northwestern",
+      "previousSchool": "Psychology",
+      "major": "Sam Garewal Instagram Opens in a new window Sam Garewal Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_27_catcher/outfield",
+      "fullName": "Catcher/Outfield",
+      "jerseyNumber": 27,
+      "classYear": "L/R",
+      "position": "6-1",
+      "height": "218 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Bakersfield, Calif.",
+      "hometown": "Liberty",
+      "lastSchool": "Human Biology",
+      "highSchool": "",
+      "previousSchool": "Human Biology",
+      "major": "Brady Reynolds Instagram Opens in a new window Brady Reynolds Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_28_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 28,
+      "classYear": "R/R",
+      "position": "6-7",
+      "height": "247 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Redding, Conn.",
+      "hometown": "Joel Barlow",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Matt Scott Instagram Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_30_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 30,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "199 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Goleta, Calif.",
+      "hometown": "Dos Pueblos",
+      "lastSchool": "Economics",
+      "highSchool": "",
+      "previousSchool": "Economics",
+      "major": "Ryan Speshyock Instagram Opens in a new window Ryan Speshyock Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_33_infield",
+      "fullName": "Infield",
+      "jerseyNumber": 33,
+      "classYear": "S/R",
+      "position": "6-0",
+      "height": "205 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Boulder, Colo.",
+      "hometown": "Fairview",
+      "lastSchool": "Management Science & Engineering",
+      "highSchool": "",
+      "previousSchool": "Management Science & Engineering",
+      "major": "Gabe Springer Instagram Opens in a new window Gabe Springer Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_34_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 34,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "210 lbs",
+      "weight": "Sophomore",
+      "batsThrows": "Golden, Colo.",
+      "hometown": "Mullen",
+      "lastSchool": "Management Science & Engineering",
+      "highSchool": "",
+      "previousSchool": "Management Science & Engineering",
+      "major": "Trevor Moore Instagram Opens in a new window Trevor Moore Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_36_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 36,
+      "classYear": "R/R",
+      "position": "6-4",
+      "height": "240 lbs",
+      "weight": "Junior",
+      "batsThrows": "Cameron Park, Calif.",
+      "hometown": "Ponderosa",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Ty Uber Instagram Opens in a new window Ty Uber Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_37_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 37,
+      "classYear": "R/R",
+      "position": "6-2",
+      "height": "218 lbs",
+      "weight": "Senior",
+      "batsThrows": "Morristown, N.J.",
+      "hometown": "Seton Hall Prep",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Tommy O'Rourke Instagram Opens in a new window Tommy O'Rourke Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_38_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 38,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "197 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Rancho Santa Margarita, Calif.",
+      "hometown": "Santa Margarita Catholic",
+      "lastSchool": "Economics",
+      "highSchool": "",
+      "previousSchool": "Economics",
+      "major": "Jack Svinth Instagram Opens in a new window Jack Svinth Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_39_first_base",
+      "fullName": "First Base",
+      "jerseyNumber": 39,
+      "classYear": "R/R",
+      "position": "6-2",
+      "height": "220 lbs",
+      "weight": "Junior",
+      "batsThrows": "Atwater, Calif.",
+      "hometown": "Buhach Colony",
+      "lastSchool": "Science, Technology & Society",
+      "highSchool": "",
+      "previousSchool": "Science, Technology & Society",
+      "major": "Jake Sapien Instagram Opens in a new window Jake Sapien Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_40_right_handed_pitcher",
+      "fullName": "Right Handed Pitcher",
+      "jerseyNumber": 40,
+      "classYear": "R/R",
+      "position": "6-3",
+      "height": "193 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Aliso Viejo, Calif.",
+      "hometown": "JSerra Catholic",
+      "lastSchool": "Economics",
+      "highSchool": "",
+      "previousSchool": "Economics",
+      "major": "Ben Reimers Instagram Opens in a new window Ben Reimers Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_42_left_handed_pitcher",
+      "fullName": "Left Handed Pitcher",
+      "jerseyNumber": 42,
+      "classYear": "L/L",
+      "position": "5-10",
+      "height": "193 lbs",
+      "weight": "Freshman",
+      "batsThrows": "Nashville, Tenn.",
+      "hometown": "Montgomery Bell Academy",
+      "lastSchool": "Economics",
+      "highSchool": "",
+      "previousSchool": "Economics",
+      "major": "Christian Lim Instagram Opens in a new window Christian Lim Twitter Opens in a new window"
+    },
+    {
+      "playerId": "stanford_2024_44_outfield/catcher",
+      "fullName": "Outfield/Catcher",
+      "jerseyNumber": 44,
+      "classYear": "R/R",
+      "position": "6-1",
+      "height": "225 lbs",
+      "weight": "Junior",
+      "batsThrows": "Gainesville, Fla.",
+      "hometown": "Buchholz",
+      "lastSchool": "Management Science & Engineering",
+      "highSchool": "",
+      "previousSchool": "Management Science & Engineering",
+      "major": ""
+    },
+    {
+      "playerId": "stanford_2024_50_left_handed_pitcher",
+      "fullName": "Left Handed Pitcher",
+      "jerseyNumber": 50,
+      "classYear": "L/L",
+      "position": "6-0",
+      "height": "205 lbs",
+      "weight": "Junior",
+      "batsThrows": "La Mesa, Calif.",
+      "hometown": "Cathedral Catholic",
+      "lastSchool": "Public Policy",
+      "highSchool": "",
+      "previousSchool": "Public Policy",
+      "major": "Gavin Nalu Instagram Opens in a new window Gavin Nalu Twitter Opens in a new window"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "stanford_2024_david_esquer",
+      "fullName": "David Esquer",
+      "role": "Clarke and Elizabeth Nelson Director of Baseball"
+    },
+    {
+      "coachId": "stanford_2024_thomas_eager",
+      "fullName": "Thomas Eager",
+      "role": "Kathy Wolff Assistant Baseball Coach"
+    },
+    {
+      "coachId": "stanford_2024_steve_rodriguez",
+      "fullName": "Steve Rodriguez",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "stanford_2024_andre_mercurio",
+      "fullName": "Andre Mercurio",
+      "role": "Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "stanford_staff_jeanette_morganti",
+      "fullName": "Jeanette Morganti",
+      "role": "Assistant Athletics Director, Baseball Operations"
+    },
+    {
+      "staffId": "stanford_staff_ryan_kirby",
+      "fullName": "Ryan Kirby",
+      "role": "Director of Player Development"
+    },
+    {
+      "staffId": "stanford_staff_john_ursone",
+      "fullName": "John Ursone",
+      "role": "Sports Medicine"
+    },
+    {
+      "staffId": "stanford_staff_gunnar_cederberg",
+      "fullName": "Gunnar Cederberg",
+      "role": "Sports Performance"
+    },
+    {
+      "staffId": "stanford_staff_kristen_gravani",
+      "fullName": "Kristen Gravani",
+      "role": "Sports Nutrition"
+    },
+    {
+      "staffId": "stanford_staff_drew_miraglia",
+      "fullName": "Drew Miraglia",
+      "role": "Equipment"
+    },
+    {
+      "staffId": "stanford_staff_debbie_iwasaki",
+      "fullName": "Debbie Iwasaki",
+      "role": "Physical Therapist"
+    },
+    {
+      "staffId": "stanford_staff_nick_combo",
+      "fullName": "Nick Combo",
+      "role": "Academic Services"
+    },
+    {
+      "staffId": "stanford_staff_tyler_geivett",
+      "fullName": "Tyler Geivett",
+      "role": "Communications"
+    },
+    {
+      "staffId": "stanford_staff_michael_yedinak",
+      "fullName": "Michael Yedinak",
+      "role": "Event Manager"
+    },
+    {
+      "staffId": "stanford_staff_julia_lee",
+      "fullName": "Julia Lee",
+      "role": "Fan Experience"
+    }
+  ],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "stanford_2024_1_infield/outfield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-3"
+      },
+      {
+        "playerId": "stanford_2024_2_infield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_4_outfield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "5-11"
+      },
+      {
+        "playerId": "stanford_2024_5_infield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-0"
+      },
+      {
+        "playerId": "stanford_2024_6_infield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_10_catcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-2"
+      },
+      {
+        "playerId": "stanford_2024_11_catcher/first_base",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-3"
+      },
+      {
+        "playerId": "stanford_2024_12_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_13_outfield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "5-10"
+      },
+      {
+        "playerId": "stanford_2024_14_infield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_15_outfield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "5-10"
+      },
+      {
+        "playerId": "stanford_2024_16_first_base",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-6"
+      },
+      {
+        "playerId": "stanford_2024_18_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-2"
+      },
+      {
+        "playerId": "stanford_2024_19_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-4"
+      },
+      {
+        "playerId": "stanford_2024_20_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-4"
+      },
+      {
+        "playerId": "stanford_2024_21_catcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-0"
+      },
+      {
+        "playerId": "stanford_2024_22_outfield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_23_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-4"
+      },
+      {
+        "playerId": "stanford_2024_24_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_25_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-2"
+      },
+      {
+        "playerId": "stanford_2024_26_left_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-4"
+      },
+      {
+        "playerId": "stanford_2024_27_catcher/outfield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_28_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-7"
+      },
+      {
+        "playerId": "stanford_2024_30_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_33_infield",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-0"
+      },
+      {
+        "playerId": "stanford_2024_34_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_36_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-4"
+      },
+      {
+        "playerId": "stanford_2024_37_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-2"
+      },
+      {
+        "playerId": "stanford_2024_38_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_39_first_base",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-2"
+      },
+      {
+        "playerId": "stanford_2024_40_right_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-3"
+      },
+      {
+        "playerId": "stanford_2024_42_left_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "5-10"
+      },
+      {
+        "playerId": "stanford_2024_44_outfield/catcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-1"
+      },
+      {
+        "playerId": "stanford_2024_50_left_handed_pitcher",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "position": "6-0"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "stanford_2024_david_esquer",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Clarke and Elizabeth Nelson Director of Baseball"
+      },
+      {
+        "coachId": "stanford_2024_thomas_eager",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Kathy Wolff Assistant Baseball Coach"
+      },
+      {
+        "coachId": "stanford_2024_steve_rodriguez",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "stanford_2024_andre_mercurio",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      }
+    ],
+    "worksFor": [
+      {
+        "staffId": "stanford_staff_jeanette_morganti",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Athletics Director, Baseball Operations"
+      },
+      {
+        "staffId": "stanford_staff_ryan_kirby",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Player Development"
+      },
+      {
+        "staffId": "stanford_staff_john_ursone",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Sports Medicine"
+      },
+      {
+        "staffId": "stanford_staff_gunnar_cederberg",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Sports Performance"
+      },
+      {
+        "staffId": "stanford_staff_kristen_gravani",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Sports Nutrition"
+      },
+      {
+        "staffId": "stanford_staff_drew_miraglia",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Equipment"
+      },
+      {
+        "staffId": "stanford_staff_debbie_iwasaki",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Physical Therapist"
+      },
+      {
+        "staffId": "stanford_staff_nick_combo",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Academic Services"
+      },
+      {
+        "staffId": "stanford_staff_tyler_geivett",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Communications"
+      },
+      {
+        "staffId": "stanford_staff_michael_yedinak",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Event Manager"
+      },
+      {
+        "staffId": "stanford_staff_julia_lee",
+        "teamId": "stanford_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Fan Experience"
+      }
+    ],
+    "memberOf": [
+      {
+        "teamId": "stanford_baseball_2024",
+        "conferenceId": "pac12",
+        "seasonYear": 2024
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "stanford_baseball_2024",
+        "seasonId": "baseball_2024"
+      }
+    ]
+  }
+}

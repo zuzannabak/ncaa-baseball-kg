@@ -1,0 +1,987 @@
+{
+  "School": {
+    "schoolId": "ucsb",
+    "name": "University of California, Santa Barbara",
+    "location": "Santa Barbara, CA"
+  },
+  "Conference": {
+    "conferenceId": "big_west",
+    "conferenceName": "Big West Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2024",
+    "seasonYear": 2024,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "ucsb_baseball_2024",
+    "teamName": "UC Santa Barbara Gauchos Baseball",
+    "schoolId": "ucsb"
+  },
+  "Players": [
+    {
+      "playerId": "ucsb_2024_1_reiss_calvin",
+      "fullName": "Reiss Calvin",
+      "jerseyNumber": 1,
+      "classYear": "",
+      "position": "INF/OF",
+      "height": "6-2",
+      "weight": "193",
+      "batsThrows": "S/R",
+      "hometown": "Woodbury, Minn. / Woodbury HS",
+      "lastSchool": "Ventura College",
+      "highSchool": "Ventura College",
+      "rawSchoolField": "Ventura College"
+    },
+    {
+      "playerId": "ucsb_2024_2_nick_oakley",
+      "fullName": "Nick Oakley",
+      "jerseyNumber": 2,
+      "classYear": "",
+      "position": "INF",
+      "height": "5-9",
+      "weight": "180",
+      "batsThrows": "L/R",
+      "hometown": "Santa Barbara, Calif. / Santa Barbara HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_3_jessada_brown",
+      "fullName": "Jessada Brown",
+      "jerseyNumber": 3,
+      "classYear": "",
+      "position": "OF/C",
+      "height": "5-11",
+      "weight": "200",
+      "batsThrows": "R/R",
+      "hometown": "Seattle, Wash. / Chief Sealth International HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_5_jonathan_mendez",
+      "fullName": "Jonathan Mendez",
+      "jerseyNumber": 5,
+      "classYear": "",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "205",
+      "batsThrows": "R/R",
+      "hometown": "Los Angeles, Calif. / JSerra Catholic HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_6_aidan_camberg",
+      "fullName": "Aidan Camberg",
+      "jerseyNumber": 6,
+      "classYear": "",
+      "position": "C",
+      "height": "6-0",
+      "weight": "182",
+      "batsThrows": "R/R",
+      "hometown": "San Ramon, Calif. / California HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_7_aaron_parker",
+      "fullName": "Aaron Parker",
+      "jerseyNumber": 7,
+      "classYear": "",
+      "position": "C",
+      "height": "5-9",
+      "weight": "200",
+      "batsThrows": "R/R",
+      "hometown": "Los Altos, Calif. / Los Altos HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_9_skyler_chang",
+      "fullName": "Skyler Chang",
+      "jerseyNumber": 9,
+      "classYear": "",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "160",
+      "batsThrows": "R/R",
+      "hometown": "Pacific Palisades, Calif. / Windward School",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_10_vaughn_major",
+      "fullName": "Vaughn Major",
+      "jerseyNumber": 10,
+      "classYear": "",
+      "position": "INF",
+      "height": "6-2",
+      "weight": "156",
+      "batsThrows": "R/R",
+      "hometown": "La Mesa, Calif. / Christian Unified School",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_12_zander_darby",
+      "fullName": "Zander Darby",
+      "jerseyNumber": 12,
+      "classYear": "",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "205",
+      "batsThrows": "L/R",
+      "hometown": "Palo Alto, Calif. / Palo Alto HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_13_will_matuszak",
+      "fullName": "Will Matuszak",
+      "jerseyNumber": 13,
+      "classYear": "",
+      "position": "INF",
+      "height": "5-11",
+      "weight": "163",
+      "batsThrows": "R/R",
+      "hometown": "Los Angeles, Calif. / Windward School",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_15_justin_trimble",
+      "fullName": "Justin Trimble",
+      "jerseyNumber": 15,
+      "classYear": "",
+      "position": "OF/INF",
+      "height": "6-4",
+      "weight": "215",
+      "batsThrows": "L/R",
+      "hometown": "Arroyo Grande, Calif. / Arroyo Grande HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_16_corey_nunez",
+      "fullName": "Corey Nunez",
+      "jerseyNumber": 16,
+      "classYear": "",
+      "position": "INF",
+      "height": "6-3",
+      "weight": "175",
+      "batsThrows": "R/R",
+      "hometown": "Torrance, Calif. / Torrance HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_17_ryan_gallagher",
+      "fullName": "Ryan Gallagher",
+      "jerseyNumber": 17,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "220",
+      "batsThrows": "L/R",
+      "hometown": "Granite Bay, Calif. / Granite Bay HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_18_brady_huddlestun",
+      "fullName": "Brady Huddlestun",
+      "jerseyNumber": 18,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-0",
+      "weight": "195",
+      "batsThrows": "R/R",
+      "hometown": "Folsom, Calif. / Folsom HS",
+      "lastSchool": "Folsom Lake College",
+      "highSchool": "Folsom Lake College",
+      "rawSchoolField": "Folsom Lake College"
+    },
+    {
+      "playerId": "ucsb_2024_19_jonah_sebring",
+      "fullName": "Jonah Sebring",
+      "jerseyNumber": 19,
+      "classYear": "",
+      "position": "INF",
+      "height": "6-0",
+      "weight": "165",
+      "batsThrows": "R/R",
+      "hometown": "Valley Center, Calif. / Great Oak HS",
+      "lastSchool": "Golden West College",
+      "highSchool": "Golden West College",
+      "rawSchoolField": "Golden West College"
+    },
+    {
+      "playerId": "ucsb_2024_20_mike_gutierrez",
+      "fullName": "Mike Gutierrez",
+      "jerseyNumber": 20,
+      "classYear": "",
+      "position": "LHP",
+      "height": "6-3",
+      "weight": "220",
+      "batsThrows": "L/L",
+      "hometown": "Jurupa Valley, Calif. / California HS",
+      "lastSchool": "Mt. SAC",
+      "highSchool": "Mt. SAC",
+      "rawSchoolField": "Mt. SAC"
+    },
+    {
+      "playerId": "ucsb_2024_22_frank_camarillo",
+      "fullName": "Frank Camarillo",
+      "jerseyNumber": 22,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "195",
+      "batsThrows": "R/R",
+      "hometown": "Moreno Valley, Calif. / Moreno Valley HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_23_peter_storjohann",
+      "fullName": "Peter Storjohann",
+      "jerseyNumber": 23,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "225",
+      "batsThrows": "R/R",
+      "hometown": "Danville, Calif. / De La Salle HS",
+      "lastSchool": "Diablo Valley College",
+      "highSchool": "Diablo Valley College",
+      "rawSchoolField": "Diablo Valley College"
+    },
+    {
+      "playerId": "ucsb_2024_24_ryan_troye",
+      "fullName": "Ryan Troye",
+      "jerseyNumber": 24,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "225",
+      "batsThrows": "R/R",
+      "hometown": "Brentwood, Calif. / Heritage HS",
+      "lastSchool": "Santa Barbara City College",
+      "highSchool": "Santa Barbara City College",
+      "rawSchoolField": "Santa Barbara City College"
+    },
+    {
+      "playerId": "ucsb_2024_25_tyler_bremner",
+      "fullName": "Tyler Bremner",
+      "jerseyNumber": 25,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "180",
+      "batsThrows": "R/R",
+      "hometown": "San Diego, Calif. / Scripps Ranch HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_26_leo_mosby",
+      "fullName": "Leo Mosby",
+      "jerseyNumber": 26,
+      "classYear": "",
+      "position": "INF",
+      "height": "6-1",
+      "weight": "195",
+      "batsThrows": "R/R",
+      "hometown": "San Diego, Calif. / Westview HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_27_nick_putnam",
+      "fullName": "Nick Putnam",
+      "jerseyNumber": 27,
+      "classYear": "",
+      "position": "C",
+      "height": "6-6",
+      "weight": "210",
+      "batsThrows": "R/R",
+      "hometown": "Danville, Calif. / San Ramon Valley HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_28_jackson_flora",
+      "fullName": "Jackson Flora",
+      "jerseyNumber": 28,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-5",
+      "weight": "197",
+      "batsThrows": "R/R",
+      "hometown": "Pleasanton, Calif. / Foothill HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_29_jack_bolt",
+      "fullName": "Jack Bolt",
+      "jerseyNumber": 29,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-3",
+      "weight": "183",
+      "batsThrows": "R/R",
+      "hometown": "Newport Beach, Calif. / Corona Del Mar HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_30_jed_decooman",
+      "fullName": "Jed Decooman",
+      "jerseyNumber": 30,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "220",
+      "batsThrows": "R/R",
+      "hometown": "Vancouver, B.C. / Mulgrave School",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_31_cole_tryba",
+      "fullName": "Cole Tryba",
+      "jerseyNumber": 31,
+      "classYear": "",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "167",
+      "batsThrows": "L/L",
+      "hometown": "Long Beach, Calif. / Los Alamitos HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_32_calvin_proskey",
+      "fullName": "Calvin Proskey",
+      "jerseyNumber": 32,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-2",
+      "weight": "184",
+      "batsThrows": "R/R",
+      "hometown": "Oak Park, Ill. / Oak Park River Forest HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_33_carson_timothy",
+      "fullName": "Carson Timothy",
+      "jerseyNumber": 33,
+      "classYear": "",
+      "position": "RHP",
+      "height": "5-11",
+      "weight": "194",
+      "batsThrows": "R/R",
+      "hometown": "Woodland, Calif. / Pioneer HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_34_matt_ager",
+      "fullName": "Matt Ager",
+      "jerseyNumber": 34,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-6",
+      "weight": "225",
+      "batsThrows": "R/R",
+      "hometown": "Pleasanton, Calif. / Foothill HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_35_letrey_mccollum",
+      "fullName": "LeTrey McCollum",
+      "jerseyNumber": 35,
+      "classYear": "",
+      "position": "OF/1B",
+      "height": "6-4",
+      "weight": "212",
+      "batsThrows": "R/R",
+      "hometown": "Murrieta, Calif. / Vista Murrieta HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_36_hudson_barrett",
+      "fullName": "Hudson Barrett",
+      "jerseyNumber": 36,
+      "classYear": "",
+      "position": "LHP",
+      "height": "6-5",
+      "weight": "225",
+      "batsThrows": "L/L",
+      "hometown": "Bakersfield, Calif. / Frontier HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_37_masen_swan",
+      "fullName": "Masen Swan",
+      "jerseyNumber": 37,
+      "classYear": "",
+      "position": "LHP",
+      "height": "6-0",
+      "weight": "180",
+      "batsThrows": "S/L",
+      "hometown": "Riverside, Calif. / Martin Luther King HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_38_jj_hollis",
+      "fullName": "JJ Hollis",
+      "jerseyNumber": 38,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "219",
+      "batsThrows": "R/R",
+      "hometown": "Laguna Niguel, Calif. / JSerra Catholic HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_39_nic_peterson",
+      "fullName": "Nic Peterson",
+      "jerseyNumber": 39,
+      "classYear": "",
+      "position": "LHP",
+      "height": "6-2",
+      "weight": "185",
+      "batsThrows": "R/L",
+      "hometown": "Tustin, Calif. / Orange Lutheran HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_40_rex_deangelis",
+      "fullName": "Rex DeAngelis",
+      "jerseyNumber": 40,
+      "classYear": "",
+      "position": "OF",
+      "height": "6-4",
+      "weight": "205",
+      "batsThrows": "L/L",
+      "hometown": "Canby, Ore. / North Marion HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_41_brendan_durfee",
+      "fullName": "Brendan Durfee",
+      "jerseyNumber": 41,
+      "classYear": "",
+      "position": "C",
+      "height": "6-4",
+      "weight": "221",
+      "batsThrows": "L/R",
+      "hometown": "Monrovia, Calif. / St. Francis HS",
+      "lastSchool": "Cal Lutheran",
+      "highSchool": "Cal Lutheran",
+      "rawSchoolField": "Cal Lutheran"
+    },
+    {
+      "playerId": "ucsb_2024_44_hayden_hattenbach",
+      "fullName": "Hayden Hattenbach",
+      "jerseyNumber": 44,
+      "classYear": "",
+      "position": "LHP",
+      "height": "6-7",
+      "weight": "230",
+      "batsThrows": "L/L",
+      "hometown": "San Rafael, Calif. / San Rafael HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_45_aj_krodel",
+      "fullName": "AJ Krodel",
+      "jerseyNumber": 45,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-4",
+      "weight": "185",
+      "batsThrows": "R/R",
+      "hometown": "Villa Park, Calif. / Villa Park HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_46_cody_nitowitz",
+      "fullName": "Cody Nitowitz",
+      "jerseyNumber": 46,
+      "classYear": "",
+      "position": "OF",
+      "height": "5-11",
+      "weight": "166",
+      "batsThrows": "S/R",
+      "hometown": "Carlsbad, Calif. / Cathedral Catholic HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_47_michael_splaine",
+      "fullName": "Michael Splaine",
+      "jerseyNumber": 47,
+      "classYear": "",
+      "position": "LHP",
+      "height": "5-10",
+      "weight": "180",
+      "batsThrows": "L/L",
+      "hometown": "Los Gatos, Calif. / Los Gatos HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_48_reed_moring",
+      "fullName": "Reed Moring",
+      "jerseyNumber": 48,
+      "classYear": "",
+      "position": "RHP",
+      "height": "6-1",
+      "weight": "175",
+      "batsThrows": "R/R",
+      "hometown": "Aptos, Calif. / Aptos HS",
+      "lastSchool": "",
+      "highSchool": "",
+      "rawSchoolField": ""
+    },
+    {
+      "playerId": "ucsb_2024_52_ivan_brethowr",
+      "fullName": "Ivan Brethowr",
+      "jerseyNumber": 52,
+      "classYear": "",
+      "position": "OF",
+      "height": "6-6",
+      "weight": "250",
+      "batsThrows": "R/R",
+      "hometown": "Olathe, Kan. / St. Thomas Aquinas HS",
+      "lastSchool": "Arizona State",
+      "highSchool": "Arizona State",
+      "rawSchoolField": "Arizona State"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "ucsb_2024_andrew_checketts",
+      "fullName": "Andrew Checketts",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "ucsb_2024_matt_fonteno",
+      "fullName": "Matt Fonteno",
+      "role": "Associate Head Coach"
+    },
+    {
+      "coachId": "ucsb_2024_dylan_jones",
+      "fullName": "Dylan Jones",
+      "role": "Assistant Coach/Recruiting Coordinator"
+    },
+    {
+      "coachId": "ucsb_2024_justin_jacome",
+      "fullName": "Justin Jacome",
+      "role": "Director of Baseball Operations"
+    },
+    {
+      "coachId": "ucsb_2024_spencer_erdman",
+      "fullName": "Spencer Erdman",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "ucsb_2024_michael_marsh",
+      "fullName": "Michael Marsh",
+      "role": "Undergraduate Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "ucsb_staff_kevin_cannon",
+      "fullName": "Kevin Cannon",
+      "role": "Director of Facilities"
+    },
+    {
+      "staffId": "ucsb_staff_justin_han",
+      "fullName": "Justin Han",
+      "role": "Student Manager Lead"
+    },
+    {
+      "staffId": "ucsb_staff_devon_kost",
+      "fullName": "Devon Kost",
+      "role": "Student Director of Analytics"
+    }
+  ],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "ucsb_2024_1_reiss_calvin",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF/OF"
+      },
+      {
+        "playerId": "ucsb_2024_2_nick_oakley",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_3_jessada_brown",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF/C"
+      },
+      {
+        "playerId": "ucsb_2024_5_jonathan_mendez",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_6_aidan_camberg",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "ucsb_2024_7_aaron_parker",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "ucsb_2024_9_skyler_chang",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_10_vaughn_major",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_12_zander_darby",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_13_will_matuszak",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_15_justin_trimble",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF/INF"
+      },
+      {
+        "playerId": "ucsb_2024_16_corey_nunez",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_17_ryan_gallagher",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_18_brady_huddlestun",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_19_jonah_sebring",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_20_mike_gutierrez",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucsb_2024_22_frank_camarillo",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_23_peter_storjohann",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_24_ryan_troye",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_25_tyler_bremner",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_26_leo_mosby",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "ucsb_2024_27_nick_putnam",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "ucsb_2024_28_jackson_flora",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_29_jack_bolt",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_30_jed_decooman",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_31_cole_tryba",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucsb_2024_32_calvin_proskey",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_33_carson_timothy",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_34_matt_ager",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_35_letrey_mccollum",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF/1B"
+      },
+      {
+        "playerId": "ucsb_2024_36_hudson_barrett",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucsb_2024_37_masen_swan",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucsb_2024_38_jj_hollis",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_39_nic_peterson",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucsb_2024_40_rex_deangelis",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucsb_2024_41_brendan_durfee",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "ucsb_2024_44_hayden_hattenbach",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucsb_2024_45_aj_krodel",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_46_cody_nitowitz",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "ucsb_2024_47_michael_splaine",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "ucsb_2024_48_reed_moring",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "ucsb_2024_52_ivan_brethowr",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "ucsb_2024_andrew_checketts",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "ucsb_2024_matt_fonteno",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Associate Head Coach"
+      },
+      {
+        "coachId": "ucsb_2024_dylan_jones",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "ucsb_2024_justin_jacome",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "coachId": "ucsb_2024_spencer_erdman",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "ucsb_2024_michael_marsh",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Undergraduate Assistant Coach"
+      }
+    ],
+    "worksFor": [
+      {
+        "staffId": "ucsb_staff_kevin_cannon",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Facilities"
+      },
+      {
+        "staffId": "ucsb_staff_justin_han",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Manager Lead"
+      },
+      {
+        "staffId": "ucsb_staff_devon_kost",
+        "teamId": "ucsb_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Director of Analytics"
+      }
+    ],
+    "memberOf": [
+      {
+        "teamId": "ucsb_baseball_2024",
+        "conferenceId": "big_west",
+        "seasonYear": 2024
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "ucsb_baseball_2024",
+        "seasonId": "baseball_2024"
+      }
+    ]
+  }
+}

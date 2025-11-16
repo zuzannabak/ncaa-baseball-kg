@@ -1,0 +1,897 @@
+{
+  "School": {
+    "schoolId": "oregon_state",
+    "name": "Oregon State University",
+    "location": "Corvallis, OR"
+  },
+  "Conference": {
+    "conferenceId": "pac12",
+    "conferenceName": "Pac-12 Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2024",
+    "seasonYear": 2024,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "oregon_state_baseball_2024",
+    "teamName": "Oregon State Beavers Baseball",
+    "schoolId": "oregon_state"
+  },
+  "Players": [
+    {
+      "playerId": "osu_2024_1_turley",
+      "fullName": "Gavin Turley",
+      "jerseyNumber": 1,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6' 1\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Chandler, Ariz.",
+      "lastSchool": "Hamilton"
+    },
+    {
+      "playerId": "osu_2024_2_trosky",
+      "fullName": "Jabin Trosky",
+      "jerseyNumber": 2,
+      "classYear": "R-So.",
+      "position": "INF",
+      "height": "5' 11\"",
+      "weight": "186 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Carmel, Calif.",
+      "lastSchool": "Carmel"
+    },
+    {
+      "playerId": "osu_2024_3_hainline",
+      "fullName": "Elijah Hainline",
+      "jerseyNumber": 3,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "5' 10\"",
+      "weight": "181 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Spokane, Wash.",
+      "lastSchool": "Mead"
+    },
+    {
+      "playerId": "osu_2024_4_macias",
+      "fullName": "Dallas Macias",
+      "jerseyNumber": 4,
+      "classYear": "So.",
+      "position": "INF/OF",
+      "height": "5' 11\"",
+      "weight": "196 lbs",
+      "batsThrows": "S/R",
+      "hometown": "Parker, Colo.",
+      "lastSchool": "Regis Jesuit"
+    },
+    {
+      "playerId": "osu_2024_6_talt",
+      "fullName": "Easton Talt",
+      "jerseyNumber": 6,
+      "classYear": "So.",
+      "position": "C/OF",
+      "height": "5' 10\"",
+      "weight": "181 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Everett, Wash.",
+      "lastSchool": "Sunrise Mountain (AZ)"
+    },
+    {
+      "playerId": "osu_2024_8_smith",
+      "fullName": "Tanner Smith",
+      "jerseyNumber": 8,
+      "classYear": "Jr.",
+      "position": "C/INF",
+      "height": "6' 0\"",
+      "weight": "204 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Chandler, Ariz.",
+      "lastSchool": "Basha"
+    },
+    {
+      "playerId": "osu_2024_9_guerra",
+      "fullName": "Mason Guerra",
+      "jerseyNumber": 9,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 3\"",
+      "weight": "208 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Beaverton, Ore.",
+      "lastSchool": "Westview"
+    },
+    {
+      "playerId": "osu_2024_12_mcdowell",
+      "fullName": "Micah McDowell",
+      "jerseyNumber": 12,
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6' 1\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Halifax, Nova Scotia",
+      "lastSchool": "Foothills Composite"
+    },
+    {
+      "playerId": "osu_2024_13_jones",
+      "fullName": "Levi Jones",
+      "jerseyNumber": 13,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 2\"",
+      "weight": "186 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Portland, Ore.",
+      "lastSchool": "Jesuit"
+    },
+    {
+      "playerId": "osu_2024_14_gustafson",
+      "fullName": "Evan Gustafson",
+      "jerseyNumber": 14,
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "6' 2\"",
+      "weight": "215 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Eau Claire, Wis.",
+      "lastSchool": "Altoona"
+    },
+    {
+      "playerId": "osu_2024_17_kasper",
+      "fullName": "Brady Kasper",
+      "jerseyNumber": 17,
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6' 1\"",
+      "weight": "200 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Mission Viejo, Calif.",
+      "lastSchool": "Capistrano Valley"
+    },
+    {
+      "playerId": "osu_2024_18_weber",
+      "fullName": "Wilson Weber",
+      "jerseyNumber": 18,
+      "classYear": "Jr.",
+      "position": "C",
+      "height": "6' 1\"",
+      "weight": "216 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Gresham, Ore.",
+      "lastSchool": "Sam Barlow"
+    },
+    {
+      "playerId": "osu_2024_19_lattery",
+      "fullName": "AJ Lattery",
+      "jerseyNumber": 19,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "248 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Prior Lake, Minn.",
+      "lastSchool": "Prior Lake"
+    },
+    {
+      "playerId": "osu_2024_20_oakes",
+      "fullName": "Kellan Oakes",
+      "jerseyNumber": 20,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "197 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Canby, Ore.",
+      "lastSchool": "Canby"
+    },
+    {
+      "playerId": "osu_2024_22_krieg",
+      "fullName": "Jacob Krieg",
+      "jerseyNumber": 22,
+      "classYear": "So.",
+      "position": "INF",
+      "height": "6' 5\"",
+      "weight": "240 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Antioch, Calif.",
+      "lastSchool": "Clayton Valley"
+    },
+    {
+      "playerId": "osu_2024_23_reeder",
+      "fullName": "Canon Reeder",
+      "jerseyNumber": 23,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6' 0\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Bend, Ore.",
+      "lastSchool": "Summit"
+    },
+    {
+      "playerId": "osu_2024_24_may",
+      "fullName": "Aiden May",
+      "jerseyNumber": 24,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "196 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Albuquerque, N.M.",
+      "lastSchool": "Sandia"
+    },
+    {
+      "playerId": "osu_2024_25_mundt",
+      "fullName": "Joey Mundt",
+      "jerseyNumber": 25,
+      "classYear": "R-Sr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "217 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Hughson, Calif.",
+      "lastSchool": "Central Catholic"
+    },
+    {
+      "playerId": "osu_2024_26_ferguson",
+      "fullName": "Noah Ferguson",
+      "jerseyNumber": 26,
+      "classYear": "R-Jr.",
+      "position": "RHP",
+      "height": "5' 9\"",
+      "weight": "191 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Salem, Ore.",
+      "lastSchool": "South Salem"
+    },
+    {
+      "playerId": "osu_2024_27_talavs",
+      "fullName": "Drew Talavs",
+      "jerseyNumber": 27,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "197 lbs",
+      "batsThrows": "R/R",
+      "hometown": "West Linn, Ore.",
+      "lastSchool": "West Linn"
+    },
+    {
+      "playerId": "osu_2024_28_santana",
+      "fullName": "Dawson Santana",
+      "jerseyNumber": 28,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "5' 6\"",
+      "weight": "155 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lake Oswego, Ore.",
+      "lastSchool": "Lakeridge"
+    },
+    {
+      "playerId": "osu_2024_30_scott",
+      "fullName": "Kyle Scott",
+      "jerseyNumber": 30,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "212 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Seal Beach, Calif.",
+      "lastSchool": "Mater Dei"
+    },
+    {
+      "playerId": "osu_2024_31_morrell",
+      "fullName": "Matthew Morrell",
+      "jerseyNumber": 31,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "202 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Placentia, Calif.",
+      "lastSchool": "Cypress"
+    },
+    {
+      "playerId": "osu_2024_32_hutcheson",
+      "fullName": "AJ Hutcheson",
+      "jerseyNumber": 32,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "5' 11\"",
+      "weight": "190 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Elk Grove, Calif.",
+      "lastSchool": "Elk Grove"
+    },
+    {
+      "playerId": "osu_2024_33_palmer",
+      "fullName": "Laif Palmer",
+      "jerseyNumber": 33,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 6\"",
+      "weight": "207 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Golden, Colo.",
+      "lastSchool": "Golden"
+    },
+    {
+      "playerId": "osu_2024_34_lawson",
+      "fullName": "Ian Lawson",
+      "jerseyNumber": 34,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 7\"",
+      "weight": "246 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Hillsboro, Ore.",
+      "lastSchool": "Century"
+    },
+    {
+      "playerId": "osu_2024_35_kmatz",
+      "fullName": "Jacob Kmatz",
+      "jerseyNumber": 35,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Albuquerque, N.M.",
+      "lastSchool": "Sandia"
+    },
+    {
+      "playerId": "osu_2024_36_keljo",
+      "fullName": "Nelson Keljo",
+      "jerseyNumber": 36,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 4\"",
+      "weight": "226 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Portland, Ore.",
+      "lastSchool": "Jesuit"
+    },
+    {
+      "playerId": "osu_2024_37_bazzana",
+      "fullName": "Travis Bazzana",
+      "jerseyNumber": 37,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 0\"",
+      "weight": "199 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Sydney, Australia",
+      "lastSchool": "Turramurra"
+    },
+    {
+      "playerId": "osu_2024_38_segura",
+      "fullName": "Eric Segura",
+      "jerseyNumber": 38,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "193 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Soledad, Calif.",
+      "lastSchool": "Soledad"
+    },
+    {
+      "playerId": "osu_2024_40_hunter",
+      "fullName": "Jaren Hunter",
+      "jerseyNumber": 40,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "230 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Damascus, Ore.",
+      "lastSchool": "Sam Barlow"
+    },
+    {
+      "playerId": "osu_2024_41_reynolds",
+      "fullName": "Chase Reynolds",
+      "jerseyNumber": 41,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 1\"",
+      "weight": "215 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Albany, Ore.",
+      "lastSchool": "West Albany"
+    },
+    {
+      "playerId": "osu_2024_44_caraway",
+      "fullName": "Trent Caraway",
+      "jerseyNumber": 44,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 2\"",
+      "weight": "202 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Dana Point, Calif.",
+      "lastSchool": "JSerra Catholic"
+    },
+    {
+      "playerId": "osu_2024_47_marnell",
+      "fullName": "Anthony Marnell IV",
+      "jerseyNumber": 47,
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "6' 2\"",
+      "weight": "198 lbs",
+      "batsThrows": "S/R",
+      "hometown": "Las Vegas, Nev.",
+      "lastSchool": "Bishop Gorman"
+    },
+    {
+      "playerId": "osu_2024_48_mejia",
+      "fullName": "Tyler Mejia",
+      "jerseyNumber": 48,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 3\"",
+      "weight": "200 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Castle Rock, Colo.",
+      "lastSchool": "Mountain Vista"
+    },
+    {
+      "playerId": "osu_2024_50_holmes",
+      "fullName": "Bridger Holmes",
+      "jerseyNumber": 50,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "218 lbs",
+      "batsThrows": "R/R",
+      "hometown": "North Bend, Ore.",
+      "lastSchool": "North Bend"
+    },
+    {
+      "playerId": "osu_2024_51_montgomery",
+      "fullName": "Tephen Montgomery",
+      "jerseyNumber": 51,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "193 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Tampa, Fla.",
+      "lastSchool": "Bloomingdale"
+    },
+    {
+      "playerId": "osu_2024_54_peterson",
+      "fullName": "Tyce Peterson",
+      "jerseyNumber": 54,
+      "classYear": "So.",
+      "position": "INF/OF",
+      "height": "5' 10\"",
+      "weight": "194 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Kirkland, Wash.",
+      "lastSchool": "Juanita"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "osu_2024_mitch_canham",
+      "fullName": "Mitch Canham",
+      "role": "Pat Casey Head Baseball Coach"
+    },
+    {
+      "coachId": "osu_2024_rich_dorman",
+      "fullName": "Rich Dorman",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "osu_2024_ryan_gipson",
+      "fullName": "Ryan Gipson",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "osu_2024_joey_wong",
+      "fullName": "Joey Wong",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "osu_2024_nate_esposito",
+      "fullName": "Nate Esposito",
+      "role": "Undergraduate Assistant Coach"
+    },
+    {
+      "coachId": "osu_2024_kyle_froemke",
+      "fullName": "Kyle Froemke",
+      "role": "Undergraduate Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "osu_staff_ryan_gorton",
+      "fullName": "Ryan Gorton",
+      "role": "Director of Operations"
+    },
+    {
+      "staffId": "osu_staff_brad_brown",
+      "fullName": "Brad Brown",
+      "role": "Director of Baseball Analytics and Advanced Scouting"
+    },
+    {
+      "staffId": "osu_staff_zak_taylor",
+      "fullName": "Zak Taylor",
+      "role": "Director of Beaver Baseball Development"
+    },
+    {
+      "staffId": "osu_staff_jeremy_ainsworth",
+      "fullName": "Jeremy Ainsworth",
+      "role": "Assistant Athletic Trainer"
+    },
+    {
+      "staffId": "osu_staff_hank_hager",
+      "fullName": "Hank Hager",
+      "role": "Assistant Athletic Director, Integrated Communications"
+    },
+    {
+      "staffId": "osu_staff_mike_henriques",
+      "fullName": "Mike Henriques",
+      "role": "Assistant Sports Performance Coordinator (Baseball and Men's Golf)"
+    },
+    {
+      "staffId": "osu_staff_darr_tucknott",
+      "fullName": "Darr Tucknott",
+      "role": "Academic Counselor"
+    },
+    {
+      "staffId": "osu_staff_doug_aukerman",
+      "fullName": "Dr. Doug Aukerman",
+      "role": "Senior Associate Athletic Director, Sports Medicine"
+    },
+    {
+      "staffId": "osu_staff_toni_langhans",
+      "fullName": "Toni Langhans",
+      "role": "Sports Dietitian"
+    }
+  ],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "osu_2024_1_turley",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "osu_2024_2_trosky",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_3_hainline",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_4_macias",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF/OF"
+      },
+      {
+        "playerId": "osu_2024_6_talt",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C/OF"
+      },
+      {
+        "playerId": "osu_2024_8_smith",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C/INF"
+      },
+      {
+        "playerId": "osu_2024_9_guerra",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_12_mcdowell",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "osu_2024_13_jones",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_14_gustafson",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "osu_2024_17_kasper",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "osu_2024_18_weber",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "osu_2024_19_lattery",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_20_oakes",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_22_krieg",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_23_reeder",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "osu_2024_24_may",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_25_mundt",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_26_ferguson",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_27_talavs",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_28_santana",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_30_scott",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_31_morrell",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_32_hutcheson",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_33_palmer",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_34_lawson",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_35_kmatz",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_36_keljo",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "osu_2024_37_bazzana",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_38_segura",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_40_hunter",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_41_reynolds",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_44_caraway",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "osu_2024_47_marnell",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "osu_2024_48_mejia",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "osu_2024_50_holmes",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_51_montgomery",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "osu_2024_54_peterson",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF/OF"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "osu_2024_mitch_canham",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Pat Casey Head Baseball Coach"
+      },
+      {
+        "coachId": "osu_2024_rich_dorman",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "osu_2024_ryan_gipson",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "osu_2024_joey_wong",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "osu_2024_nate_esposito",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Undergraduate Assistant Coach"
+      },
+      {
+        "coachId": "osu_2024_kyle_froemke",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Undergraduate Assistant Coach"
+      }
+    ],
+    "worksFor": [
+      {
+        "staffId": "osu_staff_ryan_gorton",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Operations"
+      },
+      {
+        "staffId": "osu_staff_brad_brown",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Baseball Analytics and Advanced Scouting"
+      },
+      {
+        "staffId": "osu_staff_zak_taylor",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Beaver Baseball Development"
+      },
+      {
+        "staffId": "osu_staff_jeremy_ainsworth",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Athletic Trainer"
+      },
+      {
+        "staffId": "osu_staff_hank_hager",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Athletic Director, Integrated Communications"
+      },
+      {
+        "staffId": "osu_staff_mike_henriques",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Sports Performance Coordinator (Baseball and Men's Golf)"
+      },
+      {
+        "staffId": "osu_staff_darr_tucknott",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Academic Counselor"
+      },
+      {
+        "staffId": "osu_staff_doug_aukerman",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Senior Associate Athletic Director, Sports Medicine"
+      },
+      {
+        "staffId": "osu_staff_toni_langhans",
+        "teamId": "oregon_state_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Sports Dietitian"
+      }
+    ],
+    "memberOf": [
+      {
+        "teamId": "oregon_state_baseball_2024",
+        "conferenceId": "pac12",
+        "seasonYear": 2024
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "oregon_state_baseball_2024",
+        "seasonId": "baseball_2024"
+      }
+    ]
+  }
+}

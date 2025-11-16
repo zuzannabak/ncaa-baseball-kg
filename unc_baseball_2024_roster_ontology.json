@@ -1,0 +1,1118 @@
+{
+  "School": {
+    "schoolId": "unc_chapel_hill",
+    "name": "University of North Carolina",
+    "location": "Chapel Hill, NC"
+  },
+  "Conference": {
+    "conferenceId": "acc",
+    "conferenceName": "Atlantic Coast Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2024",
+    "seasonYear": 2024,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "unc_baseball_2024",
+    "teamName": "North Carolina Tar Heels Baseball",
+    "schoolId": "unc_chapel_hill"
+  },
+  "Players": [
+    {
+      "playerId": "unc_2024_1_madera",
+      "fullName": "Alex Madera",
+      "jerseyNumber": 1,
+      "classYear": "Gr.",
+      "position": "INF",
+      "height": "5' 10\"",
+      "weight": "175 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Delran, N.J.",
+      "lastSchool": "Delran"
+    },
+    {
+      "playerId": "unc_2024_2_holbrook",
+      "fullName": "Reece Holbrook",
+      "jerseyNumber": 2,
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "5' 11\"",
+      "weight": "175 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Mt. Pleasant, S.C.",
+      "lastSchool": "Hammond",
+      "major": "Exercise And Sport Science"
+    },
+    {
+      "playerId": "unc_2024_3_wilkerson",
+      "fullName": "Colby Wilkerson",
+      "jerseyNumber": 3,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "5' 10\"",
+      "weight": "180 lbs",
+      "batsThrows": "S/R",
+      "hometown": "Oxford, N.C.",
+      "lastSchool": "Kerr Vance Academy",
+      "major": "Communication Studies"
+    },
+    {
+      "playerId": "unc_2024_4_donofrio",
+      "fullName": "Anthony Donofrio",
+      "jerseyNumber": 4,
+      "classYear": "Gr.",
+      "position": "OF",
+      "height": "6' 3\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Massapequa, N.Y.",
+      "lastSchool": "St. Anthony's"
+    },
+    {
+      "playerId": "unc_2024_5_gallaher",
+      "fullName": "Gavin Gallaher",
+      "jerseyNumber": 5,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "6' 1\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Apex, N.C.",
+      "lastSchool": "Pro5"
+    },
+    {
+      "playerId": "unc_2024_6_van_de_brake",
+      "fullName": "Jackson Van De Brake",
+      "jerseyNumber": 6,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "6' 1\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Yakima, Wash.",
+      "lastSchool": "West Valley",
+      "major": "Exercise and Sport Science"
+    },
+    {
+      "playerId": "unc_2024_7_honeycutt",
+      "fullName": "Vance Honeycutt",
+      "jerseyNumber": 7,
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "6' 3\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Salisbury, N.C.",
+      "lastSchool": "Salisbury",
+      "major": "Communication Studies"
+    },
+    {
+      "playerId": "unc_2024_8_alvarez",
+      "fullName": "Patrick Alvarez",
+      "jerseyNumber": 8,
+      "classYear": "Sr.",
+      "position": "INF/OF",
+      "height": "5' 7\"",
+      "weight": "165 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Charlotte, N.C.",
+      "lastSchool": "Myers Park",
+      "major": "Exercise and Sport Science"
+    },
+    {
+      "playerId": "unc_2024_10_dix",
+      "fullName": "Eliot Dix",
+      "jerseyNumber": 10,
+      "classYear": "Gr.",
+      "position": "INF",
+      "height": "5' 10\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Maplewood, N.J.",
+      "lastSchool": "Columbia"
+    },
+    {
+      "playerId": "unc_2024_12_galaska",
+      "fullName": "Ryker Galaska",
+      "jerseyNumber": 12,
+      "classYear": "Jr.",
+      "position": "INF/OF",
+      "height": "6' 1\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Greenville, N.C.",
+      "lastSchool": "J.H. Rose"
+    },
+    {
+      "playerId": "unc_2024_14_harber",
+      "fullName": "Parks Harber",
+      "jerseyNumber": 14,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "6' 3\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Atlanta, Ga.",
+      "lastSchool": "Westminster"
+    },
+    {
+      "playerId": "unc_2024_15_padgett",
+      "fullName": "Cameron Padgett",
+      "jerseyNumber": 15,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Salisbury, N.C.",
+      "lastSchool": "East Rowan",
+      "major": "Communications"
+    },
+    {
+      "playerId": "unc_2024_16_cook",
+      "fullName": "Casey Cook",
+      "jerseyNumber": 16,
+      "classYear": "R-So.",
+      "position": "OF",
+      "height": "6' 0\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Chantilly, Va.",
+      "lastSchool": "Freedom",
+      "major": "Exercise And Sports Science"
+    },
+    {
+      "playerId": "unc_2024_17_flannery",
+      "fullName": "Boston Flannery",
+      "jerseyNumber": 17,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "220 lbs",
+      "batsThrows": "R/R",
+      "hometown": "New City, N.Y.",
+      "lastSchool": "Brunswick"
+    },
+    {
+      "playerId": "unc_2024_18_french",
+      "fullName": "Carter French",
+      "jerseyNumber": 18,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6' 2\"",
+      "weight": "185 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Tampa, Fla.",
+      "lastSchool": "Jesuit",
+      "major": "Biology"
+    },
+    {
+      "playerId": "unc_2024_19_castagnozzi",
+      "fullName": "Johnny Castagnozzi",
+      "jerseyNumber": 19,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "6' 2\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Massapequa, N.Y.",
+      "lastSchool": "Massapequa",
+      "major": "Exercise And Sport Science"
+    },
+    {
+      "playerId": "unc_2024_20_cost",
+      "fullName": "Kaleb Cost",
+      "jerseyNumber": 20,
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "5' 10\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Atlanta, Ga.",
+      "lastSchool": "Sandy Creek"
+    },
+    {
+      "playerId": "unc_2024_23_osuna",
+      "fullName": "Alberto Osuna",
+      "jerseyNumber": 23,
+      "classYear": "Sr.",
+      "position": "1B/DH",
+      "height": "6' 1\"",
+      "weight": "245 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Mauldin, S.C.",
+      "lastSchool": "Mauldin",
+      "major": "Exercise And Sport Science"
+    },
+    {
+      "playerId": "unc_2024_24_matthijs",
+      "fullName": "Matthew Matthijs",
+      "jerseyNumber": 24,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Greenville, N.C.",
+      "lastSchool": "D.H. Conley",
+      "major": "Business Administration"
+    },
+    {
+      "playerId": "unc_2024_25_peterson",
+      "fullName": "Ben Peterson",
+      "jerseyNumber": 25,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "217 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Cary, N.C.",
+      "lastSchool": "Apex",
+      "major": "Communications Studies"
+    },
+    {
+      "playerId": "unc_2024_26_percival",
+      "fullName": "Kyle Percival",
+      "jerseyNumber": 26,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 5\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Lancaster, S.C.",
+      "lastSchool": "Andrew Jackson",
+      "major": "Exercise and Sport Science"
+    },
+    {
+      "playerId": "unc_2024_27_bovair",
+      "fullName": "Connor Bovair",
+      "jerseyNumber": 27,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 1\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Moreau, N.Y.",
+      "lastSchool": "South Glens Falls",
+      "major": "Exercise And Sports Science"
+    },
+    {
+      "playerId": "unc_2024_28_sprague",
+      "fullName": "Shea Sprague",
+      "jerseyNumber": 28,
+      "classYear": "Jr.",
+      "position": "LHP",
+      "height": "6' 3\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Hanover, Mass.",
+      "lastSchool": "Boston College HS"
+    },
+    {
+      "playerId": "unc_2024_29_decaro",
+      "fullName": "Jason DeCaro",
+      "jerseyNumber": 29,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "North Port, N.Y.",
+      "lastSchool": "St. Anthony's"
+    },
+    {
+      "playerId": "unc_2024_31_johnson",
+      "fullName": "Olin Johnson",
+      "jerseyNumber": 31,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 6\"",
+      "weight": "220 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Bellingham, Wash.",
+      "lastSchool": "McCallie (Tenn.)"
+    },
+    {
+      "playerId": "unc_2024_35_capocci",
+      "fullName": "Francesco Capocci",
+      "jerseyNumber": 35,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Cumming, Ga.",
+      "lastSchool": "Denmark",
+      "major": "Communication Studies"
+    },
+    {
+      "playerId": "unc_2024_36_boaz",
+      "fullName": "Folger Boaz",
+      "jerseyNumber": 36,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "190 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Pilot Mountain, N.C.",
+      "lastSchool": "East Surry",
+      "major": "Communication Studies"
+    },
+    {
+      "playerId": "unc_2024_38_poston",
+      "fullName": "Matt Poston",
+      "jerseyNumber": 38,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "235 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Hampton, S.C.",
+      "lastSchool": "Wade Hampton",
+      "major": "Exercise and Sport Science"
+    },
+    {
+      "playerId": "unc_2024_39_lewis",
+      "fullName": "Harrison Lewis",
+      "jerseyNumber": 39,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 6\"",
+      "weight": "265 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Winston-Salem, N.C.",
+      "lastSchool": "West Forsyth"
+    },
+    {
+      "playerId": "unc_2024_41_kirby",
+      "fullName": "Jacob Kirby",
+      "jerseyNumber": 41,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Waxhaw, N.C.",
+      "lastSchool": "Ardrey Kell"
+    },
+    {
+      "playerId": "unc_2024_42_knapp",
+      "fullName": "Jake Knapp",
+      "jerseyNumber": 42,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "255 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Greensboro, N.C.",
+      "lastSchool": "Page",
+      "major": "Exercise and Sport Science"
+    },
+    {
+      "playerId": "unc_2024_43_parks",
+      "fullName": "Tyler Parks",
+      "jerseyNumber": 43,
+      "classYear": "Fr.",
+      "position": "INF",
+      "height": "5' 9\"",
+      "weight": "165 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Asheboro, N.C.",
+      "lastSchool": "Southwestern Randolph"
+    },
+    {
+      "playerId": "unc_2024_44_stevenson",
+      "fullName": "Luke Stevenson",
+      "jerseyNumber": 44,
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "6' 1\"",
+      "weight": "200 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Wake Forest, N.C.",
+      "lastSchool": "Wake Forest"
+    },
+    {
+      "playerId": "unc_2024_45_stokely",
+      "fullName": "Hunter Stokely",
+      "jerseyNumber": 45,
+      "classYear": "Sr.",
+      "position": "1B",
+      "height": "6' 3\"",
+      "weight": "240 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Wilson, N.C.",
+      "lastSchool": "Fike",
+      "major": "Exercise And Sports Science"
+    },
+    {
+      "playerId": "unc_2024_46_simmons",
+      "fullName": "Will Simmons",
+      "jerseyNumber": 46,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Sioux Falls, S.D.",
+      "lastSchool": "Harrisburg",
+      "major": "Sports Administration"
+    },
+    {
+      "playerId": "unc_2024_47_haugh",
+      "fullName": "Aidan Haugh",
+      "jerseyNumber": 47,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 6\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Zebulon, N.C.",
+      "lastSchool": "East Wake"
+    },
+    {
+      "playerId": "unc_2024_49_pence",
+      "fullName": "Dalton Pence",
+      "jerseyNumber": 49,
+      "classYear": "R-So.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "215 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Cherryville, N.C.",
+      "lastSchool": "Cherryville",
+      "major": "History"
+    },
+    {
+      "playerId": "unc_2024_50_collins",
+      "fullName": "Hugh Collins",
+      "jerseyNumber": 50,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 1\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Clayton, N.C.",
+      "lastSchool": "J.H. Rose"
+    },
+    {
+      "playerId": "unc_2024_51_fischer",
+      "fullName": "Ryan Fischer",
+      "jerseyNumber": 51,
+      "classYear": "Gr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Whitehouse Station, N.J.",
+      "lastSchool": "Hunterdon Central"
+    },
+    {
+      "playerId": "unc_2024_52_haskin",
+      "fullName": "Parker Haskin",
+      "jerseyNumber": 52,
+      "classYear": "Gr.",
+      "position": "C",
+      "height": "5' 9\"",
+      "weight": "185 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Palm Beach Gardens, Fla.",
+      "lastSchool": "Benjamin"
+    },
+    {
+      "playerId": "unc_2024_54_yokum",
+      "fullName": "Mason Yokum",
+      "jerseyNumber": 54,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 3\"",
+      "weight": "180 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Holly Springs, N.C.",
+      "lastSchool": "Pro5"
+    },
+    {
+      "playerId": "unc_2024_56_osteen",
+      "fullName": "Luke Osteen",
+      "jerseyNumber": 56,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 1\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Huntersville, N.C.",
+      "lastSchool": "Hough"
+    },
+    {
+      "playerId": "unc_2024_57_hench",
+      "fullName": "Ryan Hench",
+      "jerseyNumber": 57,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 2\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Hillsborough, N.C.",
+      "lastSchool": "Orange"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "unc_2024_scott_forbes",
+      "fullName": "Scott Forbes",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "unc_2024_bryant_gaines",
+      "fullName": "Bryant Gaines",
+      "role": "Assistant Head Coach / Pitching Coach"
+    },
+    {
+      "coachId": "unc_2024_jesse_wierzbicki",
+      "fullName": "Jesse Wierzbicki",
+      "role": "Assistant Coach / Hitting Coach / Infielders & Catchers"
+    },
+    {
+      "coachId": "unc_2024_scott_jackson",
+      "fullName": "Scott Jackson",
+      "role": "Assistant Coach/Recruiting Coordinator"
+    },
+    {
+      "coachId": "unc_2024_jason_howell",
+      "fullName": "Jason Howell",
+      "role": "Director of Pitching Performance, Development and Analytics"
+    },
+    {
+      "coachId": "unc_2024_brandon_riley",
+      "fullName": "Brandon Riley",
+      "role": "Undergraduate Assistant Coach"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "unc_staff_dave_arendas",
+      "fullName": "Dave Arendas",
+      "role": "Director of Baseball Operations"
+    },
+    {
+      "staffId": "unc_staff_carter_hicks",
+      "fullName": "Carter Hicks",
+      "role": "Director of Player And Program Development"
+    },
+    {
+      "staffId": "unc_staff_daniel_wilkerson",
+      "fullName": "Daniel Wilkerson",
+      "role": "Assistant to the Head Coach and Clubhouse/Equipment Manager"
+    },
+    {
+      "staffId": "unc_staff_greg_gatz",
+      "fullName": "Greg Gatz",
+      "role": "Assistant Athletic Director/Director of Strength & Conditioning for Olympic Sports"
+    },
+    {
+      "staffId": "unc_staff_terri_jo_rucinski",
+      "fullName": "Terri Jo Rucinski",
+      "role": "Head Athletic Trainer"
+    },
+    {
+      "staffId": "unc_staff_joan_holt",
+      "fullName": "Joan Holt",
+      "role": "Administrative Assistant"
+    },
+    {
+      "staffId": "unc_staff_jeni_shannon",
+      "fullName": "Dr. Jeni Shannon",
+      "role": "Director, Mental Health and Performance Psychology"
+    },
+    {
+      "staffId": "unc_staff_allison_keim",
+      "fullName": "Allison Keim",
+      "role": "Associate Director of Sports Nutrition"
+    },
+    {
+      "staffId": "unc_staff_tera_brown",
+      "fullName": "T'Era Brown",
+      "role": "Graduate Assistant Athletic Trainer"
+    },
+    {
+      "staffId": "unc_staff_megan_maxwell",
+      "fullName": "Megan Maxwell",
+      "role": "Graduate Assistant Athletic Trainer"
+    },
+    {
+      "staffId": "unc_staff_hunt_bailey",
+      "fullName": "Hunt Bailey",
+      "role": "Student Manager"
+    },
+    {
+      "staffId": "unc_staff_josie_carver",
+      "fullName": "Josie Carver",
+      "role": "Student Manager"
+    },
+    {
+      "staffId": "unc_staff_grayson_guy",
+      "fullName": "Grayson Guy",
+      "role": "Student Manager"
+    },
+    {
+      "staffId": "unc_staff_sam_heimowitz",
+      "fullName": "Sam Heimowitz",
+      "role": "Student Manager"
+    },
+    {
+      "staffId": "unc_staff_jb_sebastiano",
+      "fullName": "J.B. Sebastiano",
+      "role": "Student Manager"
+    },
+    {
+      "staffId": "unc_staff_lewis_dubrowski",
+      "fullName": "Lewis Dubrowski",
+      "role": "Data Analytics"
+    },
+    {
+      "staffId": "unc_staff_liam_jackson",
+      "fullName": "Liam Jackson",
+      "role": "Bullpen Catcher"
+    },
+    {
+      "staffId": "unc_staff_cael_laird",
+      "fullName": "Cael Laird",
+      "role": "Bullpen Catcher"
+    },
+    {
+      "staffId": "unc_staff_will_staats",
+      "fullName": "Will Staats",
+      "role": "Bullpen Catcher"
+    }
+  ],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "unc_2024_1_madera",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_2_holbrook",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "unc_2024_3_wilkerson",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_4_donofrio",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "unc_2024_5_gallaher",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_6_van_de_brake",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_7_honeycutt",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "unc_2024_8_alvarez",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF/OF"
+      },
+      {
+        "playerId": "unc_2024_10_dix",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_12_galaska",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF/OF"
+      },
+      {
+        "playerId": "unc_2024_14_harber",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_15_padgett",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_16_cook",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "unc_2024_17_flannery",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_18_french",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "unc_2024_19_castagnozzi",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_20_cost",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "OF"
+      },
+      {
+        "playerId": "unc_2024_23_osuna",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "1B/DH"
+      },
+      {
+        "playerId": "unc_2024_24_matthijs",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_25_peterson",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_26_percival",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "unc_2024_27_bovair",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_28_sprague",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "unc_2024_29_decaro",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_31_johnson",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_35_capocci",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_36_boaz",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "unc_2024_38_poston",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_39_lewis",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_41_kirby",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_42_knapp",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_43_parks",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "INF"
+      },
+      {
+        "playerId": "unc_2024_44_stevenson",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "unc_2024_45_stokely",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "1B"
+      },
+      {
+        "playerId": "unc_2024_46_simmons",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_47_haugh",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_49_pence",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "unc_2024_50_collins",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "unc_2024_51_fischer",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_52_haskin",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "C"
+      },
+      {
+        "playerId": "unc_2024_54_yokum",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "LHP"
+      },
+      {
+        "playerId": "unc_2024_56_osteen",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      },
+      {
+        "playerId": "unc_2024_57_hench",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "position": "RHP"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "unc_2024_scott_forbes",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "unc_2024_bryant_gaines",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Head Coach / Pitching Coach"
+      },
+      {
+        "coachId": "unc_2024_jesse_wierzbicki",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach / Hitting Coach / Infielders & Catchers"
+      },
+      {
+        "coachId": "unc_2024_scott_jackson",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "unc_2024_jason_howell",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Pitching Performance, Development and Analytics"
+      },
+      {
+        "coachId": "unc_2024_brandon_riley",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Undergraduate Assistant Coach"
+      }
+    ],
+    "worksFor": [
+      {
+        "staffId": "unc_staff_dave_arendas",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Baseball Operations"
+      },
+      {
+        "staffId": "unc_staff_carter_hicks",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director of Player And Program Development"
+      },
+      {
+        "staffId": "unc_staff_daniel_wilkerson",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant to the Head Coach and Clubhouse/Equipment Manager"
+      },
+      {
+        "staffId": "unc_staff_greg_gatz",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Assistant Athletic Director/Director of Strength & Conditioning for Olympic Sports"
+      },
+      {
+        "staffId": "unc_staff_terri_jo_rucinski",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Head Athletic Trainer"
+      },
+      {
+        "staffId": "unc_staff_joan_holt",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Administrative Assistant"
+      },
+      {
+        "staffId": "unc_staff_jeni_shannon",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Director, Mental Health and Performance Psychology"
+      },
+      {
+        "staffId": "unc_staff_allison_keim",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Associate Director of Sports Nutrition"
+      },
+      {
+        "staffId": "unc_staff_tera_brown",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Graduate Assistant Athletic Trainer"
+      },
+      {
+        "staffId": "unc_staff_megan_maxwell",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Graduate Assistant Athletic Trainer"
+      },
+      {
+        "staffId": "unc_staff_hunt_bailey",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Manager"
+      },
+      {
+        "staffId": "unc_staff_josie_carver",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Manager"
+      },
+      {
+        "staffId": "unc_staff_grayson_guy",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Manager"
+      },
+      {
+        "staffId": "unc_staff_sam_heimowitz",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Manager"
+      },
+      {
+        "staffId": "unc_staff_jb_sebastiano",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Student Manager"
+      },
+      {
+        "staffId": "unc_staff_lewis_dubrowski",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Data Analytics"
+      },
+      {
+        "staffId": "unc_staff_liam_jackson",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Bullpen Catcher"
+      },
+      {
+        "staffId": "unc_staff_cael_laird",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Bullpen Catcher"
+      },
+      {
+        "staffId": "unc_staff_will_staats",
+        "teamId": "unc_baseball_2024",
+        "seasonYear": 2024,
+        "role": "Bullpen Catcher"
+      }
+    ],
+    "memberOf": [
+      {
+        "teamId": "unc_baseball_2024",
+        "conferenceId": "acc",
+        "seasonYear": 2024
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "unc_baseball_2024",
+        "seasonId": "baseball_2024"
+      }
+    ]
+  }
+}

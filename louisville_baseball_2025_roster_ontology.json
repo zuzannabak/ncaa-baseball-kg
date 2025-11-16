@@ -1,0 +1,925 @@
+{
+  "School": {
+    "schoolId": "louisville",
+    "name": "University of Louisville",
+    "location": "Louisville, KY"
+  },
+  "Conference": {
+    "conferenceId": "acc",
+    "conferenceName": "Atlantic Coast Conference"
+  },
+  "Season": {
+    "seasonId": "baseball_2025",
+    "seasonYear": 2025,
+    "sport": "Baseball"
+  },
+  "Team": {
+    "teamId": "louisville_baseball_2025",
+    "teamName": "Louisville Cardinals Baseball",
+    "schoolId": "louisville"
+  },
+  "Players": [
+    {
+      "playerId": "lou_2025_0_alicea",
+      "fullName": "Alex Alicea",
+      "jerseyNumber": 0,
+      "classYear": "So.",
+      "position": "INF",
+      "height": "5' 8\"",
+      "weight": "165 lbs",
+      "batsThrows": "S/R",
+      "hometown": "Milwaukee, Wis.",
+      "lastSchool": "St. Thomas More HS"
+    },
+    {
+      "playerId": "lou_2025_1_forbes",
+      "fullName": "Patrick Forbes",
+      "jerseyNumber": 1,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "220 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Bowling Green, Ky.",
+      "lastSchool": "Bowling Green HS"
+    },
+    {
+      "playerId": "lou_2025_2_pike",
+      "fullName": "Garret Pike",
+      "jerseyNumber": 2,
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6' 2\"",
+      "weight": "190 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Monclova, Ohio",
+      "lastSchool": "Toledo"
+    },
+    {
+      "playerId": "lou_2025_4_shiver",
+      "fullName": "Tanner Shiver",
+      "jerseyNumber": 4,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "5' 10\"",
+      "weight": "185 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Maryville, Tenn.",
+      "lastSchool": "Tennessee Tech"
+    },
+    {
+      "playerId": "lou_2025_5_neighbors",
+      "fullName": "Kamau Neighbors",
+      "jerseyNumber": 5,
+      "classYear": "Sr.",
+      "position": "INF",
+      "height": "5' 10\"",
+      "weight": "165 lbs",
+      "batsThrows": "S/R",
+      "hometown": "Carson, Calif.",
+      "lastSchool": "Cal State Northridge"
+    },
+    {
+      "playerId": "lou_2025_7_edinger",
+      "fullName": "Ethan Edinger",
+      "jerseyNumber": 7,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 0\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Troy, Mo.",
+      "lastSchool": "St. Charles CC"
+    },
+    {
+      "playerId": "lou_2025_8_schweitzer",
+      "fullName": "Jake Schweitzer",
+      "jerseyNumber": 8,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 0\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Louisville, Ky.",
+      "lastSchool": "Trinity HS"
+    },
+    {
+      "playerId": "lou_2025_9_brown",
+      "fullName": "Jack Brown",
+      "jerseyNumber": 9,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 1\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Fishers, Ind.",
+      "lastSchool": "Fishers HS"
+    },
+    {
+      "playerId": "lou_2025_10_hoyt",
+      "fullName": "Eli Hoyt",
+      "jerseyNumber": 10,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 0\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Waukesha, Wis.",
+      "lastSchool": "Madison College"
+    },
+    {
+      "playerId": "lou_2025_11_starke",
+      "fullName": "Ty Starke",
+      "jerseyNumber": 11,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 6\"",
+      "weight": "175 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Louisville, Ky.",
+      "lastSchool": "St. Xavier HS"
+    },
+    {
+      "playerId": "lou_2025_13_davis",
+      "fullName": "Tague Davis",
+      "jerseyNumber": 13,
+      "classYear": "Fr.",
+      "position": "LHP/1B",
+      "height": "6' 4\"",
+      "weight": "225 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Philadelphia, Pa.",
+      "lastSchool": "Malvern Preperatory School"
+    },
+    {
+      "playerId": "lou_2025_14_baker",
+      "fullName": "George Baker",
+      "jerseyNumber": 14,
+      "classYear": "So.",
+      "position": "C",
+      "height": "6' 1\"",
+      "weight": "200 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Waldorf, Md.",
+      "lastSchool": "Pro5 Baseball Academy"
+    },
+    {
+      "playerId": "lou_2025_15_hartman",
+      "fullName": "Colton Hartman",
+      "jerseyNumber": 15,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 3\"",
+      "weight": "220 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Lebanon, Ohio",
+      "lastSchool": "Lebanon HS"
+    },
+    {
+      "playerId": "lou_2025_16_lippe",
+      "fullName": "Michael Lippe",
+      "jerseyNumber": 16,
+      "classYear": "Jr.",
+      "position": "OF",
+      "height": "6' 3\"",
+      "weight": "235 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Whitefish Bay, Wis.",
+      "lastSchool": "Whitefish Bay HS"
+    },
+    {
+      "playerId": "lou_2025_17_mowry",
+      "fullName": "Collin Mowry",
+      "jerseyNumber": 17,
+      "classYear": "Fr.",
+      "position": "C",
+      "height": "6' 0\"",
+      "weight": "205 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Mokena, Ill.",
+      "lastSchool": "Lincoln-Way Central HS"
+    },
+    {
+      "playerId": "lou_2025_18_crain",
+      "fullName": "Griffin Crain",
+      "jerseyNumber": 18,
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "5' 10\"",
+      "weight": "180 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Cranston, R.I.",
+      "lastSchool": "Bishop Hendricken HS"
+    },
+    {
+      "playerId": "lou_2025_19_schlageter",
+      "fullName": "TJ Schlageter",
+      "jerseyNumber": 19,
+      "classYear": "So.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "215 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Romeoville, Ill.",
+      "lastSchool": "Joliet Catholic Academy"
+    },
+    {
+      "playerId": "lou_2025_20_munroe",
+      "fullName": "Jake Munroe",
+      "jerseyNumber": 20,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 2\"",
+      "weight": "230 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Champaign, Ill.",
+      "lastSchool": "John A. Logan"
+    },
+    {
+      "playerId": "lou_2025_22_biven",
+      "fullName": "Tucker Biven",
+      "jerseyNumber": 22,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 1\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "New Albany, Ind.",
+      "lastSchool": "New Albany HS"
+    },
+    {
+      "playerId": "lou_2025_24_danilowicz",
+      "fullName": "Wyatt Danilowicz",
+      "jerseyNumber": 24,
+      "classYear": "Jr.",
+      "position": "LHP",
+      "height": "6' 1\"",
+      "weight": "220 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Traverse City, Mich.",
+      "lastSchool": "Traverse City West HS"
+    },
+    {
+      "playerId": "lou_2025_25_klein",
+      "fullName": "Matt Klein",
+      "jerseyNumber": 25,
+      "classYear": "Jr.",
+      "position": "C/1B",
+      "height": "6' 2\"",
+      "weight": "210 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Louisville, Ky.",
+      "lastSchool": "Trinity HS"
+    },
+    {
+      "playerId": "lou_2025_26_earley",
+      "fullName": "Nate Earley",
+      "jerseyNumber": 26,
+      "classYear": "Jr.",
+      "position": "1B",
+      "height": "6' 3\"",
+      "weight": "230 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Cincinnati, Ohio",
+      "lastSchool": "Florida Southwestern State"
+    },
+    {
+      "playerId": "lou_2025_27_hot",
+      "fullName": "Bayram Hot",
+      "jerseyNumber": 27,
+      "classYear": "Jr.",
+      "position": "INF",
+      "height": "6' 2\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Queens, N.Y.",
+      "lastSchool": "Marist"
+    },
+    {
+      "playerId": "lou_2025_28_detmers",
+      "fullName": "Parker Detmers",
+      "jerseyNumber": 28,
+      "classYear": "So.",
+      "position": "RHP",
+      "height": "6' 4\"",
+      "weight": "235 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Chatham, Ill.",
+      "lastSchool": "Glenwood HS"
+    },
+    {
+      "playerId": "lou_2025_29_michael",
+      "fullName": "Peter Michael",
+      "jerseyNumber": 29,
+      "classYear": "Jr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "215 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Calabasas, Calif.",
+      "lastSchool": "Northwestern"
+    },
+    {
+      "playerId": "lou_2025_31_crafton",
+      "fullName": "Cole Crafton",
+      "jerseyNumber": 31,
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "6' 3\"",
+      "weight": "215 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Manhattan, Ill.",
+      "lastSchool": "Lincoln-Way West HS"
+    },
+    {
+      "playerId": "lou_2025_32_rose",
+      "fullName": "Zion Rose",
+      "jerseyNumber": 32,
+      "classYear": "So.",
+      "position": "OF/C",
+      "height": "6' 1\"",
+      "weight": "210 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Chicago, Ill.",
+      "lastSchool": "IMG Academy"
+    },
+    {
+      "playerId": "lou_2025_34_lessman",
+      "fullName": "Jared Lessman",
+      "jerseyNumber": 34,
+      "classYear": "Sr.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "205 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Cumberland, Wis.",
+      "lastSchool": "Iowa Western CC"
+    },
+    {
+      "playerId": "lou_2025_35_campbell",
+      "fullName": "Kyle Campbell",
+      "jerseyNumber": 35,
+      "classYear": "Fr.",
+      "position": "OF",
+      "height": "6' 4\"",
+      "weight": "190 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Louisville, Ky.",
+      "lastSchool": "Trinity HS"
+    },
+    {
+      "playerId": "lou_2025_36_tyson",
+      "fullName": "Tagger Tyson",
+      "jerseyNumber": 36,
+      "classYear": "So.",
+      "position": "C",
+      "height": "6' 1\"",
+      "weight": "200 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Mount Pleasant, S.C.",
+      "lastSchool": "Oceanside Collegiate Academy"
+    },
+    {
+      "playerId": "lou_2025_39_crawford",
+      "fullName": "Brandin Crawford",
+      "jerseyNumber": 39,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "225 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Manchester, Ky.",
+      "lastSchool": "Clay County HS"
+    },
+    {
+      "playerId": "lou_2025_40_gregor",
+      "fullName": "Jake Gregor",
+      "jerseyNumber": 40,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "235 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Louisville, Ky.",
+      "lastSchool": "IMG Academy"
+    },
+    {
+      "playerId": "lou_2025_41_gay",
+      "fullName": "Alex Gay",
+      "jerseyNumber": 41,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "6' 5\"",
+      "weight": "215 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Clifton Park, N.Y.",
+      "lastSchool": "IMG Academy"
+    },
+    {
+      "playerId": "lou_2025_42_king",
+      "fullName": "Eddie King Jr.",
+      "jerseyNumber": 42,
+      "classYear": "Sr.",
+      "position": "OF",
+      "height": "6' 2\"",
+      "weight": "220 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Lynwood, Ill.",
+      "lastSchool": "Marian Catholic HS"
+    },
+    {
+      "playerId": "lou_2025_44_vorster",
+      "fullName": "Kian Vorster",
+      "jerseyNumber": 44,
+      "classYear": "Fr.",
+      "position": "RHP",
+      "height": "5' 11\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Louisville, Ky.",
+      "lastSchool": "South Oldham HS"
+    },
+    {
+      "playerId": "lou_2025_45_murphy",
+      "fullName": "Casen Murphy",
+      "jerseyNumber": 45,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "5' 10\"",
+      "weight": "200 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Park Hills, Mo.",
+      "lastSchool": "Park Hills Central HS"
+    },
+    {
+      "playerId": "lou_2025_46_west",
+      "fullName": "Justin West",
+      "jerseyNumber": 46,
+      "classYear": "Jr.",
+      "position": "LHP",
+      "height": "6' 3\"",
+      "weight": "195 lbs",
+      "batsThrows": "R/L",
+      "hometown": "Paducah, Ky.",
+      "lastSchool": "Paducah Tilghman HS"
+    },
+    {
+      "playerId": "lou_2025_47_england",
+      "fullName": "Aaron England",
+      "jerseyNumber": 47,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "225 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Cincinnati, Ohio",
+      "lastSchool": "Fairfield HS"
+    },
+    {
+      "playerId": "lou_2025_50_cutts",
+      "fullName": "Brennyn Cutts",
+      "jerseyNumber": 50,
+      "classYear": "Sr.",
+      "position": "RHP",
+      "height": "6' 3\"",
+      "weight": "240 lbs",
+      "batsThrows": "R/R",
+      "hometown": "Greenup, Ill.",
+      "lastSchool": "Indiana State"
+    },
+    {
+      "playerId": "lou_2025_51_eberle",
+      "fullName": "Ethan Eberle",
+      "jerseyNumber": 51,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 5\"",
+      "weight": "210 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Bloomington, Ill.",
+      "lastSchool": "Normal Community HS"
+    },
+    {
+      "playerId": "lou_2025_52_evrard",
+      "fullName": "Coen Evrard",
+      "jerseyNumber": 52,
+      "classYear": "Fr.",
+      "position": "LHP",
+      "height": "6' 2\"",
+      "weight": "195 lbs",
+      "batsThrows": "L/L",
+      "hometown": "Georgetown, Ind.",
+      "lastSchool": "Floyd Central HS"
+    },
+    {
+      "playerId": "lou_2025_53_moore",
+      "fullName": "Lucas Moore",
+      "jerseyNumber": 53,
+      "classYear": "So.",
+      "position": "OF",
+      "height": "6' 0\"",
+      "weight": "180 lbs",
+      "batsThrows": "L/R",
+      "hometown": "Cincinnati, Ohio",
+      "lastSchool": "Badin HS"
+    }
+  ],
+  "Coaches": [
+    {
+      "coachId": "lou_2025_dan_mcdonnell",
+      "fullName": "Dan McDonnell",
+      "role": "Head Coach"
+    },
+    {
+      "coachId": "lou_2025_roger_williams",
+      "fullName": "Roger Williams",
+      "role": "Associate Head Coach/Pitching"
+    },
+    {
+      "coachId": "lou_2025_eric_snider",
+      "fullName": "Eric Snider",
+      "role": "Assistant Coach/Recruiting Coordinator"
+    },
+    {
+      "coachId": "lou_2025_adam_vrable",
+      "fullName": "Adam Vrable",
+      "role": "Assistant Coach"
+    },
+    {
+      "coachId": "lou_2025_brian_mundorf",
+      "fullName": "Brian Mundorf",
+      "role": "Director of Operations"
+    }
+  ],
+  "SupportStaff": [
+    {
+      "staffId": "lou_staff_michael_allman",
+      "fullName": "Michael Allman",
+      "role": "Director/Baseball Player Development"
+    },
+    {
+      "staffId": "lou_staff_savanah_feldpausch",
+      "fullName": "Savanah Feldpausch",
+      "role": "Sports Dietitian"
+    },
+    {
+      "staffId": "lou_staff_josh_gruber",
+      "fullName": "Josh Gruber",
+      "role": "Athletic Trainer"
+    },
+    {
+      "staffId": "lou_staff_rachel_overton",
+      "fullName": "Rachel Overton",
+      "role": "Associate Director/Academic Services"
+    },
+    {
+      "staffId": "lou_staff_reese_sturgeon",
+      "fullName": "Reese Sturgeon",
+      "role": "Assistant Equipment Manager"
+    },
+    {
+      "staffId": "lou_staff_nieko_torres",
+      "fullName": "Nieko Torres",
+      "role": "Senior Performance Coach"
+    }
+  ],
+  "Relationships": {
+    "playsFor": [
+      {
+        "playerId": "lou_2025_0_alicea",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "INF"
+      },
+      {
+        "playerId": "lou_2025_1_forbes",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_2_pike",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF"
+      },
+      {
+        "playerId": "lou_2025_4_shiver",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "INF"
+      },
+      {
+        "playerId": "lou_2025_5_neighbors",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "INF"
+      },
+      {
+        "playerId": "lou_2025_7_edinger",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "INF"
+      },
+      {
+        "playerId": "lou_2025_8_schweitzer",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_9_brown",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_10_hoyt",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_11_starke",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_13_davis",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP/1B"
+      },
+      {
+        "playerId": "lou_2025_14_baker",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "C"
+      },
+      {
+        "playerId": "lou_2025_15_hartman",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_16_lippe",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF"
+      },
+      {
+        "playerId": "lou_2025_17_mowry",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "C"
+      },
+      {
+        "playerId": "lou_2025_18_crain",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF"
+      },
+      {
+        "playerId": "lou_2025_19_schlageter",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_20_munroe",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "INF"
+      },
+      {
+        "playerId": "lou_2025_22_biven",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_24_danilowicz",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_25_klein",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "C/1B"
+      },
+      {
+        "playerId": "lou_2025_26_earley",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "1B"
+      },
+      {
+        "playerId": "lou_2025_27_hot",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "INF"
+      },
+      {
+        "playerId": "lou_2025_28_detmers",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_29_michael",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_31_crafton",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF"
+      },
+      {
+        "playerId": "lou_2025_32_rose",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF/C"
+      },
+      {
+        "playerId": "lou_2025_34_lessman",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_35_campbell",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF"
+      },
+      {
+        "playerId": "lou_2025_36_tyson",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "C"
+      },
+      {
+        "playerId": "lou_2025_39_crawford",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_40_gregor",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_41_gay",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_42_king",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF"
+      },
+      {
+        "playerId": "lou_2025_44_vorster",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_45_murphy",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_46_west",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_47_england",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_50_cutts",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "RHP"
+      },
+      {
+        "playerId": "lou_2025_51_eberle",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_52_evrard",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "LHP"
+      },
+      {
+        "playerId": "lou_2025_53_moore",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "position": "OF"
+      }
+    ],
+    "coaches": [
+      {
+        "coachId": "lou_2025_dan_mcdonnell",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Head Coach"
+      },
+      {
+        "coachId": "lou_2025_roger_williams",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Associate Head Coach/Pitching"
+      },
+      {
+        "coachId": "lou_2025_eric_snider",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Assistant Coach/Recruiting Coordinator"
+      },
+      {
+        "coachId": "lou_2025_adam_vrable",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Assistant Coach"
+      },
+      {
+        "coachId": "lou_2025_brian_mundorf",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Director of Operations"
+      }
+    ],
+    "worksFor": [
+      {
+        "staffId": "lou_staff_michael_allman",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Director/Baseball Player Development"
+      },
+      {
+        "staffId": "lou_staff_savanah_feldpausch",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Sports Dietitian"
+      },
+      {
+        "staffId": "lou_staff_josh_gruber",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Athletic Trainer"
+      },
+      {
+        "staffId": "lou_staff_rachel_overton",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Associate Director/Academic Services"
+      },
+      {
+        "staffId": "lou_staff_reese_sturgeon",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Assistant Equipment Manager"
+      },
+      {
+        "staffId": "lou_staff_nieko_torres",
+        "teamId": "louisville_baseball_2025",
+        "seasonYear": 2025,
+        "role": "Senior Performance Coach"
+      }
+    ],
+    "memberOf": [
+      {
+        "teamId": "louisville_baseball_2025",
+        "conferenceId": "acc",
+        "seasonYear": 2025
+      }
+    ],
+    "participatesIn": [
+      {
+        "teamId": "louisville_baseball_2025",
+        "seasonId": "baseball_2025"
+      }
+    ]
+  }
+}
