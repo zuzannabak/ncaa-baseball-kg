@@ -30,9 +30,9 @@ A small knowledge graph of NCAA Division I college baseball rosters, built from 
   - explore how teams connect to conferences and seasons
 
 ## Repository structure
+My repo is not organized yet, but this is presentation of how I will want to organize it later:
 
 - `data/` – cleaned JSON files per school (rosters, staff, relationships)
-Rest T.B.D. I'm thinking of including:
 - `cypher/` – Cypher scripts to create constraints and load JSON into Neo4j  
 - `ontology/` – OWL file and documentation of the final schema  
 - `report/` – PDF report describing design decisions and evaluation (course deliverable)
